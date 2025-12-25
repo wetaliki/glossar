@@ -1,0 +1,2805 @@
+[
+  {
+    "russisch": "царь Нрам",
+    "deutsch": "König Nram",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "SEHR_WICHTIG",
+    "kontext": "Historischer Gegner des Imperiums, dessen Macht vom Dreizack-Artefakt abhing",
+    "verwandte": [
+      "Трезубец Нрама",
+      "Двузубец",
+      "император Трай Четвёртый"
+    ],
+    "synonyme": [
+      "Нрам"
+    ]
+  },
+  {
+    "russisch": "свод правил",
+    "deutsch": "Verhaltenskodex / Regelwerk",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Allgemeines Regelwerk für Verhalten",
+    "verwandte": [
+      "правила школы",
+      "дуэльный кодекс"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "территория Жизни",
+    "deutsch": "Territorium des Lebens",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Gebiet der Lebenskraft, besondere territoriale Eigenschaft",
+    "verwandte": [
+      "Жизнь",
+      "элементы",
+      "атрибуты Стихий"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "мещане",
+    "deutsch": "Kleinbürger",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Niederer Pseudo-Adel, soziale Klasse",
+    "verwandte": [
+      "простолюдин",
+      "неблагородные"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "клинок Арды",
+    "deutsch": "Schwert von Arda",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Gerades, zweischneidiges Schwert edler Herkunft",
+    "verwandte": [
+      "янь",
+      "батто"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "снежный паук",
+    "deutsch": "Schneespinne",
+    "kategorie": "SETTING_TIER",
+    "priorität": "FLEXIBEL",
+    "kontext": "Gefährliches Wesen, Jagdbeute",
+    "verwandte": [
+      "элементаль воздуха",
+      "кристаллический элементаль"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "стальные воины",
+    "deutsch": "silberne Krieger",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Zweite, stärkere Welle von bewaffneten, mobilen Kriegerpuppen",
+    "verwandte": [
+      "бронзовый воин",
+      "куклы-воины"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Сшон",
+    "deutsch": "Shaun",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "WICHTIG",
+    "kontext": "Junger Schüler in der Akademie",
+    "verwandte": [
+      "Тсас",
+      "ученик",
+      "Омир"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "древняя могила",
+    "deutsch": "uraltes Grab",
+    "kategorie": "NAME_ORT",
+    "priorität": "SEHR_WICHTIG",
+    "kontext": "Kimis Beschreibung des Labyrinths, tote Stadt vom ersten Kaiser entweiht",
+    "verwandte": [
+      "Скрытый Город",
+      "Туманные руины"
+    ],
+    "synonyme": [
+      "Labyrinth"
+    ]
+  },
+  {
+    "russisch": "облик",
+    "deutsch": "Abbild / Ebenbild",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "SEHR_WICHTIG",
+    "kontext": "Fähigkeit der Gesichtslosen, perfekte Doppelgänger zu erschaffen",
+    "verwandte": [
+      "Безликие"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "длинная дубинка",
+    "deutsch": "lange Keule",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Waffe der dritten Welle Kriegerpuppen",
+    "verwandte": [
+      "куклы-воины"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "клан Кроу",
+    "deutsch": "Clan der Crow",
+    "kategorie": "SETTING_FRAKTION",
+    "priorität": "ABSOLUT",
+    "kontext": "Clan des Protagonisten, fast ausgerottet",
+    "verwandte": [
+      "Гедар",
+      "глава рода",
+      "вражда",
+      "Гедар Хавир"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "книга",
+    "deutsch": "Buch",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Allgemeiner Begriff für Buch",
+    "verwandte": [
+      "библиотечные смотрители"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "живые барабаны",
+    "deutsch": "lebende Trommeln",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Protagonistens Spitzname für Prüfung mit schweren Rüstungen",
+    "verwandte": [
+      "защитный костюм",
+      "испытание воли"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Пенс",
+    "deutsch": "Pens",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "WICHTIG",
+    "kontext": "Adliger der die Suche nach dem Protagonisten leitet",
+    "verwandte": [
+      "ищейки"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Вторая Тёмная эпоха",
+    "deutsch": "Zweite Dunkle Epoche",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "WICHTIG",
+    "kontext": "Historische Ära, aus der Schüler Pseudonyme wählen",
+    "verwandte": [
+      "псевдоним"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "баллиста",
+    "deutsch": "Balliste",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Antike Belagerungswaffe",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Взор Некроса",
+    "deutsch": "Blick des Nekros",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "ABSOLUT",
+    "kontext": "Skill des Protagonisten zum Durchschauen von Wänden und Scannen von Mechanismen",
+    "verwandte": [
+      "Проницательный взор Некроса",
+      "Некрос"
+    ],
+    "synonyme": [
+      "Проницательный взор Некроса"
+    ]
+  },
+  {
+    "russisch": "Тсас",
+    "deutsch": "Tsas",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "SEHR_WICHTIG",
+    "kontext": "Schüchterner junger Schüler, erster Zimmergenosse des Protagonisten",
+    "verwandte": [
+      "Багго",
+      "янь",
+      "ученик"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "тотализатор",
+    "deutsch": "Wettbude",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Schüler veranstalten Wetten auf Prüfungsausgänge",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "алхимическое масло",
+    "deutsch": "alchemistisches Öl",
+    "kategorie": "GAME_ITEM",
+    "priorität": "WICHTIG",
+    "kontext": "Öl für Waffen um Elementarwesen verletzen zu können",
+    "verwandte": [
+      "элементаль воздуха"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Ледяная капля",
+    "deutsch": "Eistropfen",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Neue Fähigkeit für die der Protagonist ein Beutezeichen erhält",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "простолюдин",
+    "deutsch": "einfacher Mann / Nichtadliger",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Nicht-adeliger Bürger",
+    "verwandte": [
+      "неблагородные",
+      "мещане",
+      "благородные"
+    ],
+    "synonyme": [
+      "неблагородные",
+      "эйнфахер манн"
+    ]
+  },
+  {
+    "russisch": "Гедар",
+    "deutsch": "Gedar",
+    "kategorie": "NAME_PROTAGONIST",
+    "priorität": "ABSOLUT",
+    "kontext": "Protagonist, Ich-Erzähler, ehemaliger Aristokrat",
+    "verwandte": [
+      "Чак",
+      "Гедар Хавир",
+      "клан Кроу",
+      "Тао",
+      "Кими из клана Кри",
+      "Трейя Хавир"
+    ],
+    "synonyme": [
+      "Чак",
+      "господин Гедар",
+      "Гедар Хавир"
+    ]
+  },
+  {
+    "russisch": "Рок",
+    "deutsch": "Rock",
+    "kategorie": "NAME_ORT",
+    "priorität": "SEHR_WICHTIG",
+    "kontext": "Name der Welt",
+    "verwandte": [
+      "Земля"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "библиотечные смотрители",
+    "deutsch": "Bibliothekswärter",
+    "kategorie": "SETTING_FRAKTION",
+    "priorität": "FLEXIBEL",
+    "kontext": "Bibliotheksmitarbeiter die als lebende Kataloge fungieren",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "малое средоточие энергии бойца",
+    "deutsch": "kleine Einheit konzentrierter Kämpferenergie",
+    "kategorie": "GAME_ITEM",
+    "priorität": "WICHTIG",
+    "kontext": "Seltener Gegenstand, Teil der rituellen Spende",
+    "verwandte": [
+      "ритуальное пожертвование",
+      "малая мощь атрибутов"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "омега",
+    "deutsch": "Omega",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Abfällige Bezeichnung für schwache, unentwickelte Individuen",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "гардист",
+    "deutsch": "Gardist",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Soldat der Garde",
+    "verwandte": [
+      "наёмные головорезы",
+      "копьё"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Императорский квартал",
+    "deutsch": "Kaiserliches Viertel",
+    "kategorie": "NAME_ORT",
+    "priorität": "SEHR_WICHTIG",
+    "kontext": "Zentrales Viertel in Nami mit Zugangsbeschränkungen",
+    "verwandte": [
+      "столица",
+      "западные ворота"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Зал Безногих Истуканов",
+    "deutsch": "Saal der Beinlosen Statuen",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der offizielle Name für die Testhalle mit den stationären, beinlosen Puppen.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "элементаль воздуха",
+    "deutsch": "Luftelemental",
+    "kategorie": "SETTING_TIER",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine Art von Elementarwesen",
+    "verwandte": [
+      "кристаллический элементаль",
+      "элементы",
+      "снежный паук"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Туманные руины",
+    "deutsch": "Nebelruinen",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der dritte Bereich des Labyrinths. Wenig Beute und hohes Risiko.",
+    "verwandte": [
+      "Скрытый Город",
+      "кристаллический элементаль"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "навыки",
+    "deutsch": "Fertigkeiten",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Fähigkeiten/Skills",
+    "verwandte": [
+      "ПОРЯДОК"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "разрядиться",
+    "deutsch": "sich entladen",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Ein Begriff von Meister Tao, der den rücksichtslosen Verbrauch aller Energiereserven für einen kurzen, extremen Kraft- oder Geschwindigkeitsausbruch beschreibt.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "бронзовый воин",
+    "deutsch": "bronzefarbener Krieger",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die erste, schwächere Welle von unbewaffneten, stationären Kriegerpuppen.",
+    "verwandte": [
+      "стальные воины",
+      "куклы-воины"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "испытание воли",
+    "deutsch": "Willensprüfung",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die von Meister Bjeg verwendete Bezeichnung für die erste Kraftprüfung",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "защитный костюм",
+    "deutsch": "Schutzanzug",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein extrem schwerer und unbeweglicher, aber sehr schützender Metallanzug, der während der \"lebende Trommeln\"-Prüfung getragen werden muss.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "чесалка для спины",
+    "deutsch": "Rückenkratzer",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Khellagrs sarkastische Bezeichnung für den kaputten \"\"Brecher\"\"",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "ученик",
+    "deutsch": "Schüler / Lehrling",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Schüler/Lehrling",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "рикша",
+    "deutsch": "Rikscha",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Rikscha - Transportmittel",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "элементы",
+    "deutsch": "Elemente",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Partikel der ORDNUNG, die in allen Lebewesen vorhanden sind und die Körperfunktionen unterstützen. Werden durch Gewürze aufgenommen.",
+    "verwandte": [
+      "элементаль воздуха",
+      "атрибуты Стихий"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "вражда",
+    "deutsch": "Feindschaft",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Feindschaft zwischen Familien",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Снотворное",
+    "deutsch": "das Sedativ",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Spitzname für Meister Gnorij.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "наёмные головорезы",
+    "deutsch": "Söldner",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Söldner - Auftragsmörder",
+    "verwandte": [
+      "гардист"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "трофеи от Хаоса",
+    "deutsch": "Trophäen des Chaos",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die zweite Artefakt-Kategorie. Unvorhersehbare Gegenstände aus einer anderen Welt oder vom Chaos verändert.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Железная кожа",
+    "deutsch": "Eisenhaut",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Eine grundlegende",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Равийская империя",
+    "deutsch": "Rawisches Reich",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Das Rawische Reich - politische Einheit",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "главный мастер",
+    "deutsch": "Oberster Meister",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Oberster Meister (des Stahlpalastes)",
+    "verwandte": [
+      "Стальной Дворец"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "гаравра",
+    "deutsch": "Garawra",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein starkes Aphrodisiakum für Pferde",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "малая мощь атрибутов",
+    "deutsch": "kleine Attributmacht",
+    "kategorie": "GAME_STAT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Seltener und wertvoller Gegenstand, Teil der rituellen Spende",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "гостиница",
+    "deutsch": "Gasthaus",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Gasthaus/Herberge",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Проницательный взор Некроса",
+    "deutsch": "Durchdringender Blick des Nekros",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Der vollständige Name der Fähigkeit des Protagonisten",
+    "verwandte": [
+      "Взор Некроса"
+    ],
+    "synonyme": [
+      "Взор Некроса"
+    ]
+  },
+  {
+    "russisch": "император Трай Четвёртый",
+    "deutsch": "Kaiser Traj IV.",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Kaiser",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Ботс",
+    "deutsch": "Botts",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein gesprächiger Wachmann",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "кристаллический элементаль",
+    "deutsch": "kristallines Elemental",
+    "kategorie": "SETTING_TIER",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine neue, gefährliche Art von Elementarwesen, die im Nebel unsichtbar sind und mit blitzschnellen Klingen angreifen. Beschrieben als \"vielflächige Kristalle mit Sensenklingen\".",
+    "verwandte": [
+      "Туманные руины",
+      "снежный паук",
+      "элементаль воздуха"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "обычные артефакты",
+    "deutsch": "gewöhnliche Artefakte",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die schwächste der drei Artefakt-Kategorien. Sie werden von Kunstfertigen hergestellt und können repariert werden.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Земля",
+    "deutsch": "Erde",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die Heimatwelt des Protagonisten (aus seiner Perspektive)",
+    "verwandte": [
+      "Рок"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Трано",
+    "deutsch": "Trano",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Familienname des Helden Gwoj im Roman.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Привлекательность",
+    "deutsch": "Attraktivität",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Ein Nebeneffekt des \"Held der Nacht\"-Bonus des Protagonisten, der seine Anziehungskraft auf das andere Geschlecht erhöht.",
+    "verwandte": [
+      "Куриная слепота"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "янь",
+    "deutsch": "Yan",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein traditionelles rawisches Schwert",
+    "verwandte": [
+      "клинок Арды",
+      "батто"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "экипаж",
+    "deutsch": "Kutsche",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Kutsche - Transportmittel",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "испражнения улиток",
+    "deutsch": "Schneckenkot",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Schneckenkot - abwertende Metapher",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Некрос",
+    "deutsch": "Nekros",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine mächtige, gefürchtete Entität (möglicherweise eine Chaos-Kreatur), die in den übertriebenen Geschichten über \"Chuck Norris\" erwähnt wird.",
+    "verwandte": [
+      "Взор Некроса"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "совместное занятие",
+    "deutsch": "gemeinsame Übung",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine seltene Art von Übung, bei der alle Schüler, männlich und weiblich, zusammen trainieren.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Данто",
+    "deutsch": "Danto",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Familie die Holonassis regierte - niederer Adel",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Куриная слепота",
+    "deutsch": "Hühnerblindheit",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Eine Fähigkeit des Protagonisten",
+    "verwandte": [
+      "Герой ночи",
+      "Привлекательность"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Багго",
+    "deutsch": "Baggo",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der legendäre Familienname, den Tsas für seine Zeit in der Akademie gewählt hat.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "ворота",
+    "deutsch": "Tor",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Stadttor",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "под присягой",
+    "deutsch": "unter Eid",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "unter Eid schwören",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "многогранник",
+    "deutsch": "Vielflächner / Polyeder",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die geometrische",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Метка чудовища",
+    "deutsch": "Monstermarke",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Eine Fähigkeit des Protagonisten, die er benutzt, um detaillierte Informationen über besiegte Kreaturen zu erhalten. Er nutzt sie, um den Granitgolem zu analysieren.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "цельнометаллический пол",
+    "deutsch": "massiver Metallboden",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Boden der neuen Testhalle",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "воплощения атрибута Пустота",
+    "deutsch": "Verkörperungen des Leere-Attributs",
+    "kategorie": "GAME_STAT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die spezifischen Trophäen",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "сигнальная структура",
+    "deutsch": "Signalstruktur",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Ein riesiges, verstecktes Geflecht aus Energielinien und Fallen, das das Haus von Khellagr umgibt.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "плоская бита",
+    "deutsch": "flacher Schläger",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die riesige Metallwaffe",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "дозволение",
+    "deutsch": "Ausnahmegenehmigung",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Ausnahmegenehmigung für Altersabweichung",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Гьерра",
+    "deutsch": "Guerra",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine große",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "стихийники",
+    "deutsch": "Elementarwesen",
+    "kategorie": "SETTING_TIER",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die allgemeinen Kreaturen des Labyrinths",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "инкогнито",
+    "deutsch": "Inkognito",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Inkognito - verborgene Identität",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "малое средоточие энергии мага",
+    "deutsch": "kleine Einheit konzentrierter Magierenergie",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Seltener Gegenstand, Teil der rituellen Spende",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "алебарда",
+    "deutsch": "Hellebarde",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Stangenwaffe der Wachen",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "конец лета",
+    "deutsch": "Ende des Sommers",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ende des Sommers - Aufnahmezeitpunkt",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "неуспеваемость",
+    "deutsch": "Nichtbestehen / Durchfallen",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Durchfallen - Versagen im Programm",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "слюдяное стекло",
+    "deutsch": "Milchglasscheibe",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Das Material des Fensters im Zimmer der Schüler.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "двойник",
+    "deutsch": "Doppelgänger",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die Bezeichnung für den Attentäter",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Габ из семьи Твавор",
+    "deutsch": "Gab aus der Familie Twavor",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein erfahrener kaiserlicher Soldat und Labyrinth-Besucher, der die Schüler vor dem weiten Weg zum Grauen Turm warnt.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "ци",
+    "deutsch": "Chi",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Überschüssige Energie",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "присутствие",
+    "deutsch": "Präsenz",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Eine besondere Fähigkeit, die es bestimmten Individuen ermöglicht, die \"Präsenz\" von wahren Aristokraten zu wittern oder zu spüren.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "бриллианты в королевской короне",
+    "deutsch": "Brillanten einer Königskrone",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Brillanten in Königskrone - aufwertende Metapher",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Диби",
+    "deutsch": "Dibi",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine zierliche",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "элементаль",
+    "deutsch": "Elemental",
+    "kategorie": "SETTING_TIER",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine Kreatur aus reiner elementarer Energie. Der Protagonist besiegt einen Feuerelemental.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Хлонассис",
+    "deutsch": "Holonassis",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ort - wurde von Familie Danto regiert",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "штраф в семьдесят пять баллов",
+    "deutsch": "Abzug von fünfundsiebzig Punkten",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die hohe Strafe, die verhängt wird, wenn ein Schüler nicht an der Mindestanzahl von sieben der zwölf Prüfungen teilnimmt.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "листья макко",
+    "deutsch": "Makkoblätter",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Blätter einer Pflanze",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Ашшот",
+    "deutsch": "Aschot",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein arroganter und beleibter Mitschüler und Zimmergenosse des Protagonisten.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "мастер",
+    "deutsch": "Meister",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Meister - Handwerker/Lehrer",
+    "verwandte": [
+      "Тао"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "пыльца",
+    "deutsch": "Blütenstaub",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein Pulver, das unsichtbare Kraftlinien und Fallen im Bereich \"Runenschatten\" sichtbar macht.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Бяка",
+    "deutsch": "Bjaka",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Erwähnt - fragte nach wiedergelesenen Büchern",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "заката",
+    "deutsch": "Sonnenuntergang",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Sonnenuntergang - Deadline für Aufnahme",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "стадия принятия",
+    "deutsch": "Akzeptanzphase",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die zweite Phase der Ausbildung, die beginnt, nachdem die Schüler ihre Unterlegenheit akzeptiert haben. Erst dann beginnen Belohnungen und Privilegien.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "зубатый вайский карп",
+    "deutsch": "Waizahnkarpfen",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine teure und schwer zu transportierende Fischart",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Ищущий",
+    "deutsch": "Sucher",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Ein professioneller Späher oder Tracker, der für Pens arbeitet und über die Fähigkeit \"Präsenz\" verfügt, um Adelige zu wittern. Er spürt den Protagonisten in der Hauptstadt auf.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Задар из семьи Гмай",
+    "deutsch": "Sadar aus der Familie Gmai",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine historische Figur",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "программа",
+    "deutsch": "Programm",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Ausbildungsprogramm",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Эш",
+    "deutsch": "Esch",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Person die Bücher besorgt hat",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "красноватый металл",
+    "deutsch": "rötliches Metall",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Das Material, aus dem die Kriegerpuppen der dritten, noch stärkeren Welle gefertigt sind.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "ночной сторож",
+    "deutsch": "Nachtwächter",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Nachtwächter",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "отчислять",
+    "deutsch": "rauswerfen / relegieren",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Relegieren - von der Akademie werfen",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "испытание силы",
+    "deutsch": "Kraftprüfung",
+    "kategorie": "GAME_STAT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine der beiden Kategorien von Prüfungen (die andere ist Verstand/Intelligenz). Die erste angekündigte Prüfung ist eine freiwillige Kraftprüfung.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "рунный контур",
+    "deutsch": "Runenkreislauf",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die irreparable",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "альфа",
+    "deutsch": "Alpha",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Eine höhere Klasse oder Stufe von Individuen im LitRPG-System",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Арса",
+    "deutsch": "Arsa",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Region - Heimat des Protagonisten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "зелёный флакон",
+    "deutsch": "grüne Flasche",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die Flasche, die angeblich das Gegengift für die vergifteten kandierten Früchte enthält, nach der Khellagr panisch sucht.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Высшая печать",
+    "deutsch": "Höchstes Siegel",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Ein besonderes Siegel des Urtempels",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Стальной Владыка",
+    "deutsch": "Stählerner Herrscher",
+    "kategorie": "SETTING_TIER",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein legendäres",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "кавалер",
+    "deutsch": "Ritter",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Ritter (aller Kräfte) - jemand der alle Kraftarten beherrscht",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "сущность стихий",
+    "deutsch": "Essenz der Elemente",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine besondere Trophäe aus dem Labyrinth. Kann für 10 Ranglistenpunkte eingetauscht werden",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Гранитный голем",
+    "deutsch": "Granitgolem",
+    "kategorie": "SETTING_TIER",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine neue, extrem widerstandsfähige Art von Erdelementarwesen, das durch die ORDNUNG verstärkt wird und in Nebelzonen auftaucht.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "шайка",
+    "deutsch": "Bande / Trupp",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Bande - feindliche Gruppe",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "глаза",
+    "deutsch": "Augen",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Augen - besondere Farbe als Erkennungsmerkmal",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Норрис",
+    "deutsch": "Norris",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Familienname",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "скакун",
+    "deutsch": "Hengst",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Hengst - edles Reittier",
+    "verwandte": [
+      "окт"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "потоки ци",
+    "deutsch": "Chi-Ströme",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die Energieströme",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Аграк",
+    "deutsch": "Agrak",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der von Dors gewählte Familienname.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "извозчик",
+    "deutsch": "Kutscher",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Berufsbezeichnung für den Fahrer einer Kutsche",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "тоу-то",
+    "deutsch": "Tou-to",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein lokales Spiel",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Дорс",
+    "deutsch": "Dors",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein muskulöser",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "мастер Брасс",
+    "deutsch": "Meister Brass",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Meister",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "искажающий амулет",
+    "deutsch": "Amulett zur direkten Verzerrung",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein Amulett",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "соус тарато",
+    "deutsch": "Taratosoße",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine Soße",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Пустота",
+    "deutsch": "Leere",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Ein Element, das schwer zu entwickeln und als \"fehlerhaft\" gilt. Es wächst nur mit spezifischen \"Verkörperungen des Leere-Attributs\".",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Огрон",
+    "deutsch": "Ogron",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein ruhiger, streng wirkender Mitschüler, der letzte, der im Zimmer ankommt.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "таверна",
+    "deutsch": "Taverne",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Taverne",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Гедар Хавир Кроу",
+    "deutsch": "Gedar Aytwir",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Vollständiger Name des Protagonisten (Clan-Name verschwiegen)",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Стальной дворец алого стекла",
+    "deutsch": "Stahlpalast des Scharlachroten Glases",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Exklusive Akademie für Aristokraten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Шао",
+    "deutsch": "Schao",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Familienname, den Aschot gewählt hat. Die Kombination \"Aschot aus der Familie Schao\" wird als unsinnig angesehen.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "рейтинг-ноль",
+    "deutsch": "Null-Rating",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Der anfängliche Punktestand (100 Punkte) für jeden neuen Schüler",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Стихии",
+    "deutsch": "Naturkräfte",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Elementarkräfte - Hauptsystem der Macht",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "грибы пассо",
+    "deutsch": "Passopilze",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine Pilzart",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "осколок Жизни",
+    "deutsch": "Splitter des Lebens",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein Ort oder ein Ereignis aus der Vergangenheit des Protagonisten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "аристократ",
+    "deutsch": "Aristokrat",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Aristokrat - Adliger",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "шестнадцать лет",
+    "deutsch": "sechzehn Jahre",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Alter des Protagonisten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Императорский совет",
+    "deutsch": "Kaiserlicher Rat",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Kaiserlicher Rat - höchstes Gremium",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "конь",
+    "deutsch": "Pferd / Hengst",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Pferd/Hengst - wertvolleres Tier",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Нами",
+    "deutsch": "Nami",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Name der Hauptstadt des Rawischen Reiches",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "элементаль воды",
+    "deutsch": "Wasserelemental",
+    "kategorie": "SETTING_TIER",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine Art von Elementarwesen",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "круглый щит с шипом",
+    "deutsch": "runder Schild mit Dorn",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein kleiner Rundschild (Buckler) mit einem stumpfen Dorn, der von der dritten Welle der Kriegerpuppen verwendet wird.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Паксус",
+    "deutsch": "Paxus",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein gesprächiger, scherzhafter Mitschüler, der von Frauen besessen ist.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Серая башня",
+    "deutsch": "Grauer Turm",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein entfernter und gefährlicher Orientierungspunkt im Amphitheater",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "бульварная литература",
+    "deutsch": "Trivialliteratur",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Bezeichnung für die Art von Groschenromanen",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "мир",
+    "deutsch": "Welt",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Welt",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "пирамида рейтинга",
+    "deutsch": "Ranglistenpyramide",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine Metapher für die Rangliste der Schüler in der Akademie.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "заговор",
+    "deutsch": "Verschwörung",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Verschwörung",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Рава",
+    "deutsch": "Rawa",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Reich/Region - Hauptreich der Handlung",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "жидкое серебро",
+    "deutsch": "flüssiges Silber",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein Öl mit Silberpartikeln",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "отрицательный балл",
+    "deutsch": "Fehlverhaltenspunkt",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Ein negativer Punkt",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "испытание Первохрама",
+    "deutsch": "Prüfung des Urtempels",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Trial des Urtempels - verändert Schlafbedarf",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Корни Хаоса",
+    "deutsch": "Chaoswurzeln",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Eine nicht-tödliche Kontrollfähigkeit des Protagonisten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Трейя",
+    "deutsch": "Treya",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Name der Mutter des Protagonisten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Гран",
+    "deutsch": "Gran",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der von Guerra gewählte Familienname.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "цвет глаз",
+    "deutsch": "Augenfarbe",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Augenfarbe - gefährliches Erkennungsmerkmal",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Лабиринт Искусников",
+    "deutsch": "Labyrinth der Kunstfertigen",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der volle und offizielle Name für die \"\"Verborgene Stadt\"\". Der Zugang zu diesem Ort ist das Hauptziel des Protagonisten und vieler Schüler.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "почётный командующий",
+    "deutsch": "Ehrenkommandant",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Ehrenkommandant - Titel des Kaisers",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "возраст",
+    "deutsch": "Alter",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Alter - 15-17 Jahre für Aufnahme",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "таран",
+    "deutsch": "Rammbock",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Belagerungswaffe zum Einreißen von Toren",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "туманники",
+    "deutsch": "Nebelwesen",
+    "kategorie": "SETTING_TIER",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine besonders gefährliche Art von Kreatur im Labyrinth, vor der Sergeant Didgo ausdrücklich warnt.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "сержант Дидго",
+    "deutsch": "Sergeant Didgo",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein kaiserlicher Sergeant, der den Zugang zum Labyrinth überwacht und die Einweisung gibt.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "семья Фрег",
+    "deutsch": "Familie Freg",
+    "kategorie": "SETTING_FRAKTION",
+    "priorität": "FLEXIBEL",
+    "kontext": "Dors' gewählter Clan-Name. Laut dem Protagonisten eine Emporkömmlingsfamilie von Händlern.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "искусник Кхеллагр",
+    "deutsch": "Kunstfertige Khellagr",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein mysteriöser, extrem paranoider und mächtiger Handwerker (Artefakt-Meister), den der Protagonist auf Empfehlung von Meister Tao aufsucht.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Амфитеатр",
+    "deutsch": "Amphitheater",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der sicherste und anfängerfreundlichste der vier Bereiche des Labyrinths, mit viel schwacher Beute.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Гвой",
+    "deutsch": "Gwoj",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der übertrieben heldenhafte Protagonist eines Groschenromans",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Дуар",
+    "deutsch": "Duar",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Familienname",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "учащийся",
+    "deutsch": "Schüler / Schülerin",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Schüler der Akademie",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "коса",
+    "deutsch": "Sense",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die Bezeichnung für die langen",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Высшая крепость костей",
+    "deutsch": "Höchste Knochenfestigkeit",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Eine seltene passive Fähigkeit des Protagonisten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "плюшки",
+    "deutsch": "Belohnungen",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Umgangssprachlicher Ausdruck von Paxus für die Belohnungen und Vorteile, die nach der \"Akzeptanzphase\" gewährt werden.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "мастер Тшо",
+    "deutsch": "Meister Tscho",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Meister",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "корнеплоды пурры",
+    "deutsch": "Purrawurzel",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein teures Wurzelgemüse.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Рунные тени",
+    "deutsch": "Runenschatten",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der vierte und am wenigsten erforschte Bereich des Labyrinths. Fast keine Beute, unbekanntes Risiko.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "императорский палач",
+    "deutsch": "kaiserlicher Henker",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Beruf von Khellagrs Zwillingsbruder",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "рунные артефакты",
+    "deutsch": "Runenartefakte",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die mächtigste Kategorie von Artefakten. Hergestellt mit verlorener Runentechnologie, können sie nicht repariert werden.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "телохранитель",
+    "deutsch": "Leibwächter",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Leibwächter",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "имперская казна",
+    "deutsch": "Kaiserliche Schatzkammer",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die Kasse des Reiches",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "нойские креветки",
+    "deutsch": "Noigarnelen",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine Garnelenart",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "доска учёта",
+    "deutsch": "Rangliste",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die Rangliste der Schüler im Stahlpalast",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "оскорбление императора",
+    "deutsch": "Beleidigung des Kaisers",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Beleidigung seiner Majestät",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "мастер Данс",
+    "deutsch": "Meister Dans",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Meister mit der Fähigkeit",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "южные ворота",
+    "deutsch": "Südtor",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Südtor der Hauptstadt",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "синий шарик",
+    "deutsch": "blaue Kugel",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die Form",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Жнец",
+    "deutsch": "Schnitter",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Name des besonderen Dolches des Protagonisten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Каллиграфия",
+    "deutsch": "Kalligrafie",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Eine passive Fertigkeit für schönes Schreiben. Der Protagonist verliert einen Punkt",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "семья Гейб",
+    "deutsch": "Familie Geyb",
+    "kategorie": "SETTING_FRAKTION",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine andere Händlerfamilie",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "снобизм",
+    "deutsch": "Snobismus",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Snobismus - Arroganz der Oberschicht",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Лабиринт",
+    "deutsch": "Labyrinth",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein alternativer Name für die \"\"Verborgene Stadt\"\".",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Тёмные кварталы",
+    "deutsch": "Dunkle Viertel",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der zweite Bereich des Labyrinths. Mehr Beute",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "бета",
+    "deutsch": "Beta",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Eine Klasse oder Stufe von Individuen im LitRPG-System",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "задница Хаоса",
+    "deutsch": "Arsch des Chaos",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein Ausdruck, den Khellagr benutzt, um seinen Schock über die völlig unkonventionelle und \"falsche\" Struktur der Parameter des Protagonisten zu beschreiben.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "ступени просветления",
+    "deutsch": "Erleuchtungsstufen",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die Stufen oder Level im LitRPG-System",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "фактория",
+    "deutsch": "Faktorei",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Handelsposten wo Protagonist lebte",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "малое универсальное общее состояние",
+    "deutsch": "kleiner universeller allgemeiner Zustand",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Seltener Gegenstand, Teil der rituellen Spende",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "рунные техники",
+    "deutsch": "Runentechniken",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die verlorene Technologie der Alten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "положительные баллы",
+    "deutsch": "Punkte",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Positive Punkte",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Нрамы",
+    "deutsch": "Nram",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die Dynastie oder das Reich von König Nram.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "лошадь",
+    "deutsch": "Pferd",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Pferd - normales Reittier",
+    "verwandte": [
+      "окт"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Северное море",
+    "deutsch": "Nordmeer",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein Meer",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "малая первородная суть",
+    "deutsch": "kleine Einheit Uressenz",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Seltener Gegenstand, Teil der rituellen Spende",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "куклы (стационарные)",
+    "deutsch": "Puppen (stationär)",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Ein neuer, riesiger Typ von Gegnern. Ihre Oberkörper ragen aus dem Boden und sie sind mit massiven Metallschlägern bewaffnet.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "испытание на разум",
+    "deutsch": "Verstandesprüfung",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Die zweite Kategorie von Prüfungen (neben Kraft).",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "великий мастер Ур",
+    "deutsch": "großer Meister Ur",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Schulleiter des Stahlpalastes.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Ташлим",
+    "deutsch": "Taschlim",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Familienname",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "император",
+    "deutsch": "Kaiser",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Herrscher des Rawischen Reiches",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Мастер Гнорий",
+    "deutsch": "Meister Gnorij",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Geschichtslehrer, dessen Vorlesungen so langweilig sind, dass er den Spitznamen \"das Sedativ\" trägt.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Безликие",
+    "deutsch": "die Gesichtslosen",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Eine berüchtigte und gefürchtete Gruppe von Attentätern, die für ihre Fähigkeit bekannt sind, ihr Aussehen zu ändern. Sie sind für den Angriff auf die Familie des Protagonisten verantwortlich.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "глава рода",
+    "deutsch": "Oberhaupt des Clans",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Clan-Oberhaupt",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Нестабильный щит Хаоса",
+    "deutsch": "Instabiler Chaosschild",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Eine defensive Fähigkeit des Protagonisten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Омир",
+    "deutsch": "Oumir",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der von Shaun gewählte Familienname.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Герой ночи",
+    "deutsch": "Held der Nacht",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Ein persönlicher Bonus oder eine Fähigkeit des Protagonisten",
+    "verwandte": [
+      "Куриная слепота"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Скрытый Город",
+    "deutsch": "Verborgene Stadt",
+    "kategorie": "NAME_ORT",
+    "priorität": "SEHR_WICHTIG",
+    "kontext": "Ein geheimer Ort (auch \"Labyrinth\" genannt), zu dem die Akademie Zugang gewährt. Dort können Schüler die Attribute der Elemente erlangen. Es ist das Hauptziel des Protagonisten.",
+    "verwandte": [
+      "древняя могила",
+      "Туманные руины",
+      "Первохрам"
+    ],
+    "synonyme": [
+      "древняя могила",
+      "Лабиринт"
+    ]
+  },
+  {
+    "russisch": "Тики",
+    "deutsch": "Tiki",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der von Dibi gewählte Familienname.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "пилозуб",
+    "deutsch": "Sägezahnfisch",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein Tier",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "сдвоенный компактный арбалет",
+    "deutsch": "kompakte Doppelarmbrust",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die Waffe",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "мастер-лучник",
+    "deutsch": "Bogenschützenmeister",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Meister des Bogenschießens",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Кими из клана Кри",
+    "deutsch": "Kimi aus dem Clan der Kri",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "SEHR_WICHTIG",
+    "kontext": "Der vollständige Name des mysteriösen",
+    "verwandte": [
+      "Гедар",
+      "долг благородного"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "клановые конфликты",
+    "deutsch": "Konflikte zwischen Clans",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Clan-Konflikte",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "пятнадцать лет",
+    "deutsch": "fünfzehn Jahre",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Mindestalter für Aufnahme",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "худи",
+    "deutsch": "Hoodie",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein modernes Kleidungsstück",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "комитет по встрече",
+    "deutsch": "Empfangskomitee",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Gruppe von Meistern, die für den Empfang neuer Schüler zuständig ist",
+    "verwandte": [
+      "Стальной Дворец"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "благородные",
+    "deutsch": "Adlige",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Adelige - von adliger Geburt",
+    "verwandte": [
+      "голубая кровь",
+      "отпрыск",
+      "неблагородные",
+      "простолюдин"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "конюшня",
+    "deutsch": "Stall",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Pferdestall",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "ночной лазутчик-любовник",
+    "deutsch": "nächtlicher schleichender Liebhaber",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Paxus' fantasievolle und falsche Bezeichnung für den Protagonisten",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "отпрыск",
+    "deutsch": "Nachkomme / Sprössling",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Nachkomme - Kind adeliger Familie",
+    "verwandte": [
+      "благородные"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "неблагородные",
+    "deutsch": "Nichtadlige",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Nicht-Adelige",
+    "verwandte": [
+      "простолюдин",
+      "благородные",
+      "мещане"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "столица",
+    "deutsch": "Hauptstadt",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Hauptstadt von Rawa",
+    "verwandte": [
+      "Императорский квартал",
+      "западные ворота"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Алтарь Воскрешения",
+    "deutsch": "Altar der Auferstehung",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Ein Bonus oder eine Fähigkeit, die der Protagonist besitzt und die ihn möglicherweise nach dem Tod wiederbeleben kann, aber mit Risiken verbunden ist.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Первохрам",
+    "deutsch": "Urtempel",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Uralter Tempel mit Prüfung",
+    "verwandte": [
+      "Скрытый Город"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "дуэльный кодекс",
+    "deutsch": "Duellkodex",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein Regelwerk für Duelle unter Adligen",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "враги",
+    "deutsch": "Feinde",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Feinde",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "сезон",
+    "deutsch": "Saison",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Saison - Jahr (im Kontext der Aufnahme)",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "бобы шая",
+    "deutsch": "Shayabohnen",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine Bohnenart",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "ищейки",
+    "deutsch": "Spürhunde",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Spürhunde - Verfolger (metaphorisch)",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "мастер Вордо",
+    "deutsch": "Meister Wordo",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein dunkelhäutiger Meister",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "жгучий хатчис",
+    "deutsch": "scharfer Hatchi",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine extrem teure und scharfe Gewürzschote.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Трезубец Нрама",
+    "deutsch": "Dreizack von Nram",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein mächtiges Runenartefakt, das die Quelle von König Nrams Macht war. Nach seiner Beschädigung wurde es \"Zweizack\" genannt.",
+    "verwandte": [
+      "Двузубец",
+      "царь Нрам"
+    ],
+    "synonyme": [
+      "Двузубец"
+    ]
+  },
+  {
+    "russisch": "параметры",
+    "deutsch": "Parameter",
+    "kategorie": "GAME_STAT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Stats/Parameter (Charakterwerte)",
+    "verwandte": [
+      "ПОРЯДОК",
+      "уровень"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "увольнительная",
+    "deutsch": "Ausgang / Freistellung",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Umgangssprachlicher Ausdruck für die Erlaubnis, die Akademie für einen bestimmten Zeitraum zu verlassen. Kostet Ranglistenpunkte.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Жизнь",
+    "deutsch": "Leben",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Leben - besondere Kraft/Territory",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Тао",
+    "deutsch": "Tao",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "SEHR_WICHTIG",
+    "kontext": "Großmeister - ehemaliger kaiserlicher Leibwächter und Lehrer",
+    "verwandte": [
+      "мастер",
+      "Стальной Дворец",
+      "Гедар"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Трейя Хавир",
+    "deutsch": "Treya Aytwir",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die Mutter des Protagonisten, die von Kimi als \"verfluchte Treya\" bezeichnet wird, was auf eine problematische Rolle in der Vergangenheit hindeutet.",
+    "verwandte": [
+      "Гедар",
+      "Гедар Хавир"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Шлоб",
+    "deutsch": "Schlob",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein rothaariger, dicker Mann, der von einem Bettler erwähnt wird. Ein Detail, das die Atmosphäre des Viertels unterstreicht.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "надувать лягушек",
+    "deutsch": "Frösche aufblasen",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine grausame Kindheitsbeschäftigung, die Khellagr als Metapher für den Zustand der ORDNUNG des Protagonisten verwendet.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "батто",
+    "deutsch": "Batto",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine Art Krummschwert",
+    "verwandte": [
+      "янь"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "атрибуты Стихий",
+    "deutsch": "Attribute der Naturkräfte",
+    "kategorie": "GAME_STAT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Attribute der Elementarkräfte",
+    "verwandte": [
+      "элементы",
+      "территория Жизни"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "семнадцать лет",
+    "deutsch": "siebzehn Jahre",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Höchstalter für Aufnahme",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "система испытаний",
+    "deutsch": "Reihe von Prüfungen",
+    "kategorie": "GAME_FERTIGKEIT",
+    "priorität": "WICHTIG",
+    "kontext": "Das System der Prüfungen, das die Schüler zu Beginn ihrer Ausbildung durchlaufen müssen, um ihre Fähigkeiten zu bewerten.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "световой день",
+    "deutsch": "Lichttag",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Lichttag - Tagesstunden (Sonnenaufgang bis Sonnenuntergang)",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "западные ворота",
+    "deutsch": "Westtor",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Westtor der Hauptstadt",
+    "verwandte": [
+      "столица"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Дорран",
+    "deutsch": "Dorran",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Person",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Чак",
+    "deutsch": "Chuck",
+    "kategorie": "NAME_PROTAGONIST",
+    "priorität": "ABSOLUT",
+    "kontext": "Pseudonym des Protagonisten in der Akademie",
+    "verwandte": [
+      "Гедар",
+      "Гедар Хавир"
+    ],
+    "synonyme": [
+      "Гедар"
+    ]
+  },
+  {
+    "russisch": "голубая кровь",
+    "deutsch": "Blaublütige",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Blaublütige - höchster Adel",
+    "verwandte": [
+      "благородные"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "мастер Бьег",
+    "deutsch": "Meister Bjeg",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Bruder von Meister Hog",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "мастер Хог",
+    "deutsch": "Meister Hog",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein extrem strenger, kahlköpfiger Meister, der für den Wohnheimtrakt der Jungen verantwortlich ist.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "долг благородного",
+    "deutsch": "Pflicht eines Adligen",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Kodex",
+    "verwandte": [
+      "Кими из клана Кри"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "куклы-воины",
+    "deutsch": "Kriegerpuppen",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Animierte Rüstungen, die als Gegner in der ersten Prüfung dienen.",
+    "verwandte": [
+      "бронзовый воин",
+      "стальные воины"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Сад Красных Лепестков",
+    "deutsch": "Garten der Roten Blütenblätter",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Das bekannteste und beste Bordell in der Hauptstadt Rawa.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "стебли молодого вассиса",
+    "deutsch": "junge Wassisstängel",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Stängel einer Pflanze",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "подземный комплекс",
+    "deutsch": "unterirdischer Komplex",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Das riesige, mehrstöckige Tunnelsystem unter der Akademie, in dem die Prüfung stattfindet.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "стриг",
+    "deutsch": "Strig",
+    "kategorie": "SETTING_TIER",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine andere Art von Kreatur",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "псевдоним",
+    "deutsch": "Pseudonym",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Pseudonym - Deckname in der Akademie",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "усадьба",
+    "deutsch": "Anwesen",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Anwesen - Clan-Besitz",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "охранный контур",
+    "deutsch": "Sicherheitskreis",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Ein anderes Wort für die \"\"Signalstruktur\"\" um Khellagrs Haus.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "кровавый студень",
+    "deutsch": "blutiger Pudding",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die Beschreibung für das sich ständig verändernde",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Приют Колючих Лилий",
+    "deutsch": "Herberge der Stacheligen Lilien",
+    "kategorie": "NAME_ORT",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein besonders exklusiver Bereich innerhalb des Bordells \"\"Garten der Roten Blütenblätter\"\".",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "правила школы",
+    "deutsch": "Regeln der Schule",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Schulregeln der Akademie",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "ритуальное пожертвование",
+    "deutsch": "rituelle Spende",
+    "kategorie": "SETTING_RANG",
+    "priorität": "WICHTIG",
+    "kontext": "Eine obligatorische Spende für die Aufnahme in den Stahlpalast",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "эликсир",
+    "deutsch": "Elixier",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Tränke",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "искусник",
+    "deutsch": "Kunstfertiger / Schauender",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Eine besondere Klasse von Gelehrten, die ihre eigene ORDNUNG als Werkzeug zur Erforschung der Welt nutzen. Khellagr ist ein solcher \"Kunstfertiger\".",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "прошлое",
+    "deutsch": "Vergangenheit",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Vergangenheit",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "господин Гизал",
+    "deutsch": "Meister Gisal",
+    "kategorie": "NAME_SEKUNDÄR",
+    "priorität": "FLEXIBEL",
+    "kontext": "Ein mächtiger Magier, der im Amphitheater starb, obwohl er nur 25 Schritte vom Ausgang entfernt war. Seine Geschichte dient als Schreckensbeispiel.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Двузубец",
+    "deutsch": "Zweizack",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Der Name des beschädigten Dreizacks von Nram.",
+    "verwandte": [
+      "Трезубец Нрама"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "будущее",
+    "deutsch": "Zukunft",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Zukunft",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "Гедар Хавир",
+    "deutsch": "Gedar Aytwir",
+    "kategorie": "NAME_PROTAGONIST",
+    "priorität": "ABSOLUT",
+    "kontext": "Der wahre Name des Protagonisten",
+    "verwandte": [
+      "Гедар",
+      "Чак",
+      "Трейя Хавир",
+      "клан Кроу"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "стадия объяснения",
+    "deutsch": "Erklärungsphase",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Die erste Phase der Ausbildung in der Akademie, in der die Meister die Schüler mental brechen und ihnen ihre Wertlosigkeit demonstrieren.",
+    "verwandte": [],
+    "synonyme": []
+  },
+  {
+    "russisch": "копьё",
+    "deutsch": "Speer",
+    "kategorie": "GAME_ITEM",
+    "priorität": "FLEXIBEL",
+    "kontext": "Stangenwaffe der Wachen",
+    "verwandte": [
+      "гардист"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "ПОРЯДОК",
+    "deutsch": "ORDNUNG",
+    "kategorie": "GAME_MECHANIK",
+    "priorität": "WICHTIG",
+    "kontext": "Das LitRPG-System",
+    "verwandte": [
+      "параметры",
+      "навыки",
+      "уровень"
+    ],
+    "synonyme": []
+  },
+  {
+    "russisch": "Стальной Дворец",
+    "deutsch": "Stahlpalast",
+    "kategorie": "NAME_ORT",
+    "priorität": "SEHR_WICHTIG",
+    "kontext": "Kurzform des Namens der Akademie",
+    "verwandte": [
+      "главный мастер",
+      "комитет по встрече",
+      "Тао"
+    ],
+    "synonyme": [
+      "Академия стали"
+    ]
+  },
+  {
+    "russisch": "господин",
+    "deutsch": "Herr",
+    "kategorie": "ALLGEMEIN",
+    "priorität": "FLEXIBEL",
+    "kontext": "Höfliche Anrede",
+    "verwandte": [],
+    "synonyme": []
+  }
+]

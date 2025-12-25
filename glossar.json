@@ -1,20 +1,5 @@
 [
   {
-    "russisch": "царь Нрам",
-    "deutsch": "König Nram",
-    "kategorie": "NAME_SEKUNDÄR",
-    "priorität": "SEHR_WICHTIG",
-    "kontext": "Historischer Gegner des Imperiums, dessen Macht vom Dreizack-Artefakt abhing",
-    "verwandte": [
-      "Трезубец Нрама",
-      "Двузубец",
-      "император Трай Четвёртый"
-    ],
-    "synonyme": [
-      "Нрам"
-    ]
-  },
-  {
     "russisch": "свод правил",
     "deutsch": "Verhaltenskodex / Regelwerk",
     "kategorie": "ALLGEMEIN",
@@ -24,7 +9,8 @@
       "правила школы",
       "дуэльный кодекс"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495368
   },
   {
     "russisch": "территория Жизни",
@@ -37,7 +23,8 @@
       "элементы",
       "атрибуты Стихий"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495369
   },
   {
     "russisch": "мещане",
@@ -49,7 +36,8 @@
       "простолюдин",
       "неблагородные"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495370
   },
   {
     "russisch": "клинок Арды",
@@ -61,7 +49,8 @@
       "янь",
       "батто"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495371
   },
   {
     "russisch": "снежный паук",
@@ -73,7 +62,8 @@
       "элементаль воздуха",
       "кристаллический элементаль"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495372
   },
   {
     "russisch": "стальные воины",
@@ -85,7 +75,8 @@
       "бронзовый воин",
       "куклы-воины"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495373
   },
   {
     "russisch": "Сшон",
@@ -98,7 +89,8 @@
       "ученик",
       "Омир"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495374
   },
   {
     "russisch": "древняя могила",
@@ -112,7 +104,8 @@
     ],
     "synonyme": [
       "Labyrinth"
-    ]
+    ],
+    "id": 1766705495375
   },
   {
     "russisch": "облик",
@@ -123,7 +116,8 @@
     "verwandte": [
       "Безликие"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495376
   },
   {
     "russisch": "длинная дубинка",
@@ -134,7 +128,8 @@
     "verwandte": [
       "куклы-воины"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495377
   },
   {
     "russisch": "клан Кроу",
@@ -148,7 +143,8 @@
       "вражда",
       "Гедар Хавир"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495378
   },
   {
     "russisch": "книга",
@@ -159,7 +155,8 @@
     "verwandte": [
       "библиотечные смотрители"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495379
   },
   {
     "russisch": "живые барабаны",
@@ -171,7 +168,8 @@
       "защитный костюм",
       "испытание воли"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495380
   },
   {
     "russisch": "Пенс",
@@ -182,7 +180,8 @@
     "verwandte": [
       "ищейки"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495381
   },
   {
     "russisch": "Вторая Тёмная эпоха",
@@ -193,7 +192,8 @@
     "verwandte": [
       "псевдоним"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495382
   },
   {
     "russisch": "баллиста",
@@ -202,7 +202,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Antike Belagerungswaffe",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495383
   },
   {
     "russisch": "Взор Некроса",
@@ -216,7 +217,8 @@
     ],
     "synonyme": [
       "Проницательный взор Некроса"
-    ]
+    ],
+    "id": 1766705495384
   },
   {
     "russisch": "Тсас",
@@ -229,7 +231,8 @@
       "янь",
       "ученик"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495385
   },
   {
     "russisch": "тотализатор",
@@ -238,7 +241,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Schüler veranstalten Wetten auf Prüfungsausgänge",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495386
   },
   {
     "russisch": "алхимическое масло",
@@ -249,7 +253,8 @@
     "verwandte": [
       "элементаль воздуха"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495387
   },
   {
     "russisch": "Ледяная капля",
@@ -258,7 +263,8 @@
     "priorität": "WICHTIG",
     "kontext": "Neue Fähigkeit für die der Protagonist ein Beutezeichen erhält",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495388
   },
   {
     "russisch": "простолюдин",
@@ -274,7 +280,8 @@
     "synonyme": [
       "неблагородные",
       "эйнфахер манн"
-    ]
+    ],
+    "id": 1766705495389
   },
   {
     "russisch": "Гедар",
@@ -294,7 +301,8 @@
       "Чак",
       "господин Гедар",
       "Гедар Хавир"
-    ]
+    ],
+    "id": 1766705495390
   },
   {
     "russisch": "Рок",
@@ -305,7 +313,8 @@
     "verwandte": [
       "Земля"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495391
   },
   {
     "russisch": "библиотечные смотрители",
@@ -314,7 +323,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Bibliotheksmitarbeiter die als lebende Kataloge fungieren",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495392
   },
   {
     "russisch": "малое средоточие энергии бойца",
@@ -326,7 +336,8 @@
       "ритуальное пожертвование",
       "малая мощь атрибутов"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495393
   },
   {
     "russisch": "омега",
@@ -335,7 +346,8 @@
     "priorität": "WICHTIG",
     "kontext": "Abfällige Bezeichnung für schwache, unentwickelte Individuen",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495394
   },
   {
     "russisch": "гардист",
@@ -347,7 +359,8 @@
       "наёмные головорезы",
       "копьё"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495395
   },
   {
     "russisch": "Императорский квартал",
@@ -359,7 +372,8 @@
       "столица",
       "западные ворота"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495396
   },
   {
     "russisch": "Зал Безногих Истуканов",
@@ -368,7 +382,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der offizielle Name für die Testhalle mit den stationären, beinlosen Puppen.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495397
   },
   {
     "russisch": "элементаль воздуха",
@@ -381,7 +396,8 @@
       "элементы",
       "снежный паук"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495398
   },
   {
     "russisch": "Туманные руины",
@@ -393,7 +409,8 @@
       "Скрытый Город",
       "кристаллический элементаль"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495399
   },
   {
     "russisch": "навыки",
@@ -404,7 +421,8 @@
     "verwandte": [
       "ПОРЯДОК"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495400
   },
   {
     "russisch": "разрядиться",
@@ -413,7 +431,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ein Begriff von Meister Tao, der den rücksichtslosen Verbrauch aller Energiereserven für einen kurzen, extremen Kraft- oder Geschwindigkeitsausbruch beschreibt.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495401
   },
   {
     "russisch": "бронзовый воин",
@@ -425,7 +444,8 @@
       "стальные воины",
       "куклы-воины"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495402
   },
   {
     "russisch": "испытание воли",
@@ -434,7 +454,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die von Meister Bjeg verwendete Bezeichnung für die erste Kraftprüfung",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495403
   },
   {
     "russisch": "защитный костюм",
@@ -443,7 +464,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein extrem schwerer und unbeweglicher, aber sehr schützender Metallanzug, der während der \"lebende Trommeln\"-Prüfung getragen werden muss.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495404
   },
   {
     "russisch": "чесалка для спины",
@@ -452,7 +474,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Khellagrs sarkastische Bezeichnung für den kaputten \"\"Brecher\"\"",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495405
   },
   {
     "russisch": "ученик",
@@ -461,7 +484,8 @@
     "priorität": "WICHTIG",
     "kontext": "Schüler/Lehrling",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495406
   },
   {
     "russisch": "рикша",
@@ -470,7 +494,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Rikscha - Transportmittel",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495407
   },
   {
     "russisch": "элементы",
@@ -482,7 +507,8 @@
       "элементаль воздуха",
       "атрибуты Стихий"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495408
   },
   {
     "russisch": "вражда",
@@ -491,7 +517,8 @@
     "priorität": "WICHTIG",
     "kontext": "Feindschaft zwischen Familien",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495409
   },
   {
     "russisch": "Снотворное",
@@ -500,7 +527,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Spitzname für Meister Gnorij.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495410
   },
   {
     "russisch": "наёмные головорезы",
@@ -511,7 +539,8 @@
     "verwandte": [
       "гардист"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495411
   },
   {
     "russisch": "трофеи от Хаоса",
@@ -520,7 +549,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die zweite Artefakt-Kategorie. Unvorhersehbare Gegenstände aus einer anderen Welt oder vom Chaos verändert.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495412
   },
   {
     "russisch": "Железная кожа",
@@ -529,7 +559,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine grundlegende",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495413
   },
   {
     "russisch": "Равийская империя",
@@ -538,7 +569,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Das Rawische Reich - politische Einheit",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495414
   },
   {
     "russisch": "главный мастер",
@@ -549,7 +581,8 @@
     "verwandte": [
       "Стальной Дворец"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495415
   },
   {
     "russisch": "гаравра",
@@ -558,7 +591,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein starkes Aphrodisiakum für Pferde",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495416
   },
   {
     "russisch": "малая мощь атрибутов",
@@ -567,7 +601,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Seltener und wertvoller Gegenstand, Teil der rituellen Spende",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495417
   },
   {
     "russisch": "гостиница",
@@ -576,7 +611,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Gasthaus/Herberge",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495418
   },
   {
     "russisch": "Проницательный взор Некроса",
@@ -589,7 +625,8 @@
     ],
     "synonyme": [
       "Взор Некроса"
-    ]
+    ],
+    "id": 1766705495419
   },
   {
     "russisch": "император Трай Четвёртый",
@@ -598,7 +635,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Kaiser",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495420
   },
   {
     "russisch": "Ботс",
@@ -607,7 +645,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein gesprächiger Wachmann",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495421
   },
   {
     "russisch": "кристаллический элементаль",
@@ -620,7 +659,8 @@
       "снежный паук",
       "элементаль воздуха"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495422
   },
   {
     "russisch": "обычные артефакты",
@@ -629,7 +669,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die schwächste der drei Artefakt-Kategorien. Sie werden von Kunstfertigen hergestellt und können repariert werden.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495423
   },
   {
     "russisch": "Земля",
@@ -640,7 +681,8 @@
     "verwandte": [
       "Рок"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495424
   },
   {
     "russisch": "Трано",
@@ -649,7 +691,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Familienname des Helden Gwoj im Roman.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495425
   },
   {
     "russisch": "Привлекательность",
@@ -660,7 +703,8 @@
     "verwandte": [
       "Куриная слепота"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495426
   },
   {
     "russisch": "янь",
@@ -672,7 +716,8 @@
       "клинок Арды",
       "батто"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495427
   },
   {
     "russisch": "экипаж",
@@ -681,7 +726,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Kutsche - Transportmittel",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495428
   },
   {
     "russisch": "испражнения улиток",
@@ -690,7 +736,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Schneckenkot - abwertende Metapher",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495429
   },
   {
     "russisch": "Некрос",
@@ -701,7 +748,8 @@
     "verwandte": [
       "Взор Некроса"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495430
   },
   {
     "russisch": "совместное занятие",
@@ -710,7 +758,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine seltene Art von Übung, bei der alle Schüler, männlich und weiblich, zusammen trainieren.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495431
   },
   {
     "russisch": "Данто",
@@ -719,7 +768,8 @@
     "priorität": "WICHTIG",
     "kontext": "Familie die Holonassis regierte - niederer Adel",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495432
   },
   {
     "russisch": "Куриная слепота",
@@ -731,7 +781,8 @@
       "Герой ночи",
       "Привлекательность"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495433
   },
   {
     "russisch": "Багго",
@@ -740,7 +791,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der legendäre Familienname, den Tsas für seine Zeit in der Akademie gewählt hat.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495434
   },
   {
     "russisch": "ворота",
@@ -749,7 +801,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Stadttor",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495435
   },
   {
     "russisch": "под присягой",
@@ -758,7 +811,8 @@
     "priorität": "WICHTIG",
     "kontext": "unter Eid schwören",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495436
   },
   {
     "russisch": "многогранник",
@@ -767,7 +821,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die geometrische",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495437
   },
   {
     "russisch": "Метка чудовища",
@@ -776,7 +831,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine Fähigkeit des Protagonisten, die er benutzt, um detaillierte Informationen über besiegte Kreaturen zu erhalten. Er nutzt sie, um den Granitgolem zu analysieren.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495438
   },
   {
     "russisch": "цельнометаллический пол",
@@ -785,7 +841,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Boden der neuen Testhalle",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495439
   },
   {
     "russisch": "воплощения атрибута Пустота",
@@ -794,7 +851,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die spezifischen Trophäen",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495440
   },
   {
     "russisch": "сигнальная структура",
@@ -803,7 +861,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ein riesiges, verstecktes Geflecht aus Energielinien und Fallen, das das Haus von Khellagr umgibt.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495441
   },
   {
     "russisch": "плоская бита",
@@ -812,7 +871,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die riesige Metallwaffe",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495442
   },
   {
     "russisch": "дозволение",
@@ -821,7 +881,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ausnahmegenehmigung für Altersabweichung",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495443
   },
   {
     "russisch": "Гьерра",
@@ -830,7 +891,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine große",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495444
   },
   {
     "russisch": "стихийники",
@@ -839,7 +901,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die allgemeinen Kreaturen des Labyrinths",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495445
   },
   {
     "russisch": "инкогнито",
@@ -848,7 +911,8 @@
     "priorität": "WICHTIG",
     "kontext": "Inkognito - verborgene Identität",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495446
   },
   {
     "russisch": "малое средоточие энергии мага",
@@ -857,7 +921,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Seltener Gegenstand, Teil der rituellen Spende",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495447
   },
   {
     "russisch": "алебарда",
@@ -866,7 +931,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Stangenwaffe der Wachen",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495448
   },
   {
     "russisch": "конец лета",
@@ -875,7 +941,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ende des Sommers - Aufnahmezeitpunkt",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495449
   },
   {
     "russisch": "неуспеваемость",
@@ -884,7 +951,8 @@
     "priorität": "WICHTIG",
     "kontext": "Durchfallen - Versagen im Programm",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495450
   },
   {
     "russisch": "слюдяное стекло",
@@ -893,7 +961,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Das Material des Fensters im Zimmer der Schüler.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495451
   },
   {
     "russisch": "двойник",
@@ -902,7 +971,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die Bezeichnung für den Attentäter",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495452
   },
   {
     "russisch": "Габ из семьи Твавор",
@@ -911,7 +981,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein erfahrener kaiserlicher Soldat und Labyrinth-Besucher, der die Schüler vor dem weiten Weg zum Grauen Turm warnt.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495453
   },
   {
     "russisch": "ци",
@@ -920,7 +991,8 @@
     "priorität": "WICHTIG",
     "kontext": "Überschüssige Energie",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495454
   },
   {
     "russisch": "присутствие",
@@ -929,7 +1001,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine besondere Fähigkeit, die es bestimmten Individuen ermöglicht, die \"Präsenz\" von wahren Aristokraten zu wittern oder zu spüren.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495455
   },
   {
     "russisch": "бриллианты в королевской короне",
@@ -938,7 +1011,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Brillanten in Königskrone - aufwertende Metapher",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495456
   },
   {
     "russisch": "Диби",
@@ -947,7 +1021,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine zierliche",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495457
   },
   {
     "russisch": "элементаль",
@@ -956,7 +1031,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine Kreatur aus reiner elementarer Energie. Der Protagonist besiegt einen Feuerelemental.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495458
   },
   {
     "russisch": "Хлонассис",
@@ -965,7 +1041,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ort - wurde von Familie Danto regiert",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495459
   },
   {
     "russisch": "штраф в семьдесят пять баллов",
@@ -974,7 +1051,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die hohe Strafe, die verhängt wird, wenn ein Schüler nicht an der Mindestanzahl von sieben der zwölf Prüfungen teilnimmt.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495460
   },
   {
     "russisch": "листья макко",
@@ -983,7 +1061,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Blätter einer Pflanze",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495461
   },
   {
     "russisch": "Ашшот",
@@ -992,7 +1071,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein arroganter und beleibter Mitschüler und Zimmergenosse des Protagonisten.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495462
   },
   {
     "russisch": "мастер",
@@ -1003,7 +1083,8 @@
     "verwandte": [
       "Тао"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495463
   },
   {
     "russisch": "пыльца",
@@ -1012,7 +1093,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein Pulver, das unsichtbare Kraftlinien und Fallen im Bereich \"Runenschatten\" sichtbar macht.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495464
   },
   {
     "russisch": "Бяка",
@@ -1021,7 +1103,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Erwähnt - fragte nach wiedergelesenen Büchern",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495465
   },
   {
     "russisch": "заката",
@@ -1030,7 +1113,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Sonnenuntergang - Deadline für Aufnahme",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495466
   },
   {
     "russisch": "стадия принятия",
@@ -1039,7 +1123,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die zweite Phase der Ausbildung, die beginnt, nachdem die Schüler ihre Unterlegenheit akzeptiert haben. Erst dann beginnen Belohnungen und Privilegien.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495467
   },
   {
     "russisch": "зубатый вайский карп",
@@ -1048,7 +1133,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine teure und schwer zu transportierende Fischart",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495468
   },
   {
     "russisch": "Ищущий",
@@ -1057,7 +1143,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ein professioneller Späher oder Tracker, der für Pens arbeitet und über die Fähigkeit \"Präsenz\" verfügt, um Adelige zu wittern. Er spürt den Protagonisten in der Hauptstadt auf.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495469
   },
   {
     "russisch": "Задар из семьи Гмай",
@@ -1066,7 +1153,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine historische Figur",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495470
   },
   {
     "russisch": "программа",
@@ -1075,7 +1163,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ausbildungsprogramm",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495471
   },
   {
     "russisch": "Эш",
@@ -1084,7 +1173,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Person die Bücher besorgt hat",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495472
   },
   {
     "russisch": "красноватый металл",
@@ -1093,7 +1183,8 @@
     "priorität": "WICHTIG",
     "kontext": "Das Material, aus dem die Kriegerpuppen der dritten, noch stärkeren Welle gefertigt sind.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495473
   },
   {
     "russisch": "ночной сторож",
@@ -1102,7 +1193,8 @@
     "priorität": "WICHTIG",
     "kontext": "Nachtwächter",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495474
   },
   {
     "russisch": "отчислять",
@@ -1111,7 +1203,8 @@
     "priorität": "WICHTIG",
     "kontext": "Relegieren - von der Akademie werfen",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495475
   },
   {
     "russisch": "испытание силы",
@@ -1120,7 +1213,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine der beiden Kategorien von Prüfungen (die andere ist Verstand/Intelligenz). Die erste angekündigte Prüfung ist eine freiwillige Kraftprüfung.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495476
   },
   {
     "russisch": "рунный контур",
@@ -1129,7 +1223,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die irreparable",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495477
   },
   {
     "russisch": "альфа",
@@ -1138,7 +1233,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine höhere Klasse oder Stufe von Individuen im LitRPG-System",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495478
   },
   {
     "russisch": "Арса",
@@ -1147,7 +1243,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Region - Heimat des Protagonisten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495479
   },
   {
     "russisch": "зелёный флакон",
@@ -1156,7 +1253,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die Flasche, die angeblich das Gegengift für die vergifteten kandierten Früchte enthält, nach der Khellagr panisch sucht.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495480
   },
   {
     "russisch": "Высшая печать",
@@ -1165,7 +1263,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ein besonderes Siegel des Urtempels",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495481
   },
   {
     "russisch": "Стальной Владыка",
@@ -1174,7 +1273,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein legendäres",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495482
   },
   {
     "russisch": "кавалер",
@@ -1183,7 +1283,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ritter (aller Kräfte) - jemand der alle Kraftarten beherrscht",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495483
   },
   {
     "russisch": "сущность стихий",
@@ -1192,7 +1293,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine besondere Trophäe aus dem Labyrinth. Kann für 10 Ranglistenpunkte eingetauscht werden",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495484
   },
   {
     "russisch": "Гранитный голем",
@@ -1201,7 +1303,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine neue, extrem widerstandsfähige Art von Erdelementarwesen, das durch die ORDNUNG verstärkt wird und in Nebelzonen auftaucht.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495485
   },
   {
     "russisch": "шайка",
@@ -1210,7 +1313,8 @@
     "priorität": "WICHTIG",
     "kontext": "Bande - feindliche Gruppe",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495486
   },
   {
     "russisch": "глаза",
@@ -1219,7 +1323,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Augen - besondere Farbe als Erkennungsmerkmal",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495487
   },
   {
     "russisch": "Норрис",
@@ -1228,7 +1333,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Familienname",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495488
   },
   {
     "russisch": "скакун",
@@ -1239,7 +1345,8 @@
     "verwandte": [
       "окт"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495489
   },
   {
     "russisch": "потоки ци",
@@ -1248,7 +1355,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die Energieströme",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495490
   },
   {
     "russisch": "Аграк",
@@ -1257,7 +1365,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der von Dors gewählte Familienname.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495491
   },
   {
     "russisch": "извозчик",
@@ -1266,7 +1375,8 @@
     "priorität": "WICHTIG",
     "kontext": "Berufsbezeichnung für den Fahrer einer Kutsche",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495492
   },
   {
     "russisch": "тоу-то",
@@ -1275,7 +1385,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein lokales Spiel",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495493
   },
   {
     "russisch": "Дорс",
@@ -1284,7 +1395,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein muskulöser",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495494
   },
   {
     "russisch": "мастер Брасс",
@@ -1293,7 +1405,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Meister",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495495
   },
   {
     "russisch": "искажающий амулет",
@@ -1302,7 +1415,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein Amulett",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495496
   },
   {
     "russisch": "соус тарато",
@@ -1311,7 +1425,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine Soße",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495497
   },
   {
     "russisch": "Пустота",
@@ -1320,7 +1435,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ein Element, das schwer zu entwickeln und als \"fehlerhaft\" gilt. Es wächst nur mit spezifischen \"Verkörperungen des Leere-Attributs\".",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495498
   },
   {
     "russisch": "Огрон",
@@ -1329,7 +1445,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein ruhiger, streng wirkender Mitschüler, der letzte, der im Zimmer ankommt.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495499
   },
   {
     "russisch": "таверна",
@@ -1338,7 +1455,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Taverne",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495500
   },
   {
     "russisch": "Гедар Хавир Кроу",
@@ -1347,7 +1465,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Vollständiger Name des Protagonisten (Clan-Name verschwiegen)",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495501
   },
   {
     "russisch": "Стальной дворец алого стекла",
@@ -1356,7 +1475,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Exklusive Akademie für Aristokraten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495502
   },
   {
     "russisch": "Шао",
@@ -1365,7 +1485,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Familienname, den Aschot gewählt hat. Die Kombination \"Aschot aus der Familie Schao\" wird als unsinnig angesehen.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495503
   },
   {
     "russisch": "рейтинг-ноль",
@@ -1374,7 +1495,8 @@
     "priorität": "WICHTIG",
     "kontext": "Der anfängliche Punktestand (100 Punkte) für jeden neuen Schüler",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495504
   },
   {
     "russisch": "Стихии",
@@ -1383,7 +1505,8 @@
     "priorität": "WICHTIG",
     "kontext": "Elementarkräfte - Hauptsystem der Macht",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495505
   },
   {
     "russisch": "грибы пассо",
@@ -1392,7 +1515,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine Pilzart",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495506
   },
   {
     "russisch": "осколок Жизни",
@@ -1401,7 +1525,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein Ort oder ein Ereignis aus der Vergangenheit des Protagonisten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495507
   },
   {
     "russisch": "аристократ",
@@ -1410,7 +1535,8 @@
     "priorität": "WICHTIG",
     "kontext": "Aristokrat - Adliger",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495508
   },
   {
     "russisch": "шестнадцать лет",
@@ -1419,7 +1545,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Alter des Protagonisten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495509
   },
   {
     "russisch": "Императорский совет",
@@ -1428,7 +1555,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Kaiserlicher Rat - höchstes Gremium",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495510
   },
   {
     "russisch": "конь",
@@ -1437,7 +1565,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Pferd/Hengst - wertvolleres Tier",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495511
   },
   {
     "russisch": "Нами",
@@ -1446,7 +1575,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Name der Hauptstadt des Rawischen Reiches",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495512
   },
   {
     "russisch": "элементаль воды",
@@ -1455,7 +1585,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine Art von Elementarwesen",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495513
   },
   {
     "russisch": "круглый щит с шипом",
@@ -1464,7 +1595,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein kleiner Rundschild (Buckler) mit einem stumpfen Dorn, der von der dritten Welle der Kriegerpuppen verwendet wird.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495514
   },
   {
     "russisch": "Паксус",
@@ -1473,7 +1605,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein gesprächiger, scherzhafter Mitschüler, der von Frauen besessen ist.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495515
   },
   {
     "russisch": "Серая башня",
@@ -1482,7 +1615,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein entfernter und gefährlicher Orientierungspunkt im Amphitheater",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495516
   },
   {
     "russisch": "бульварная литература",
@@ -1491,7 +1625,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Bezeichnung für die Art von Groschenromanen",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495517
   },
   {
     "russisch": "мир",
@@ -1500,7 +1635,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Welt",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495518
   },
   {
     "russisch": "пирамида рейтинга",
@@ -1509,7 +1645,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine Metapher für die Rangliste der Schüler in der Akademie.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495519
   },
   {
     "russisch": "заговор",
@@ -1518,7 +1655,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Verschwörung",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495520
   },
   {
     "russisch": "Рава",
@@ -1527,7 +1665,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Reich/Region - Hauptreich der Handlung",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495521
   },
   {
     "russisch": "жидкое серебро",
@@ -1536,7 +1675,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein Öl mit Silberpartikeln",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495522
   },
   {
     "russisch": "отрицательный балл",
@@ -1545,7 +1685,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ein negativer Punkt",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495523
   },
   {
     "russisch": "испытание Первохрама",
@@ -1554,7 +1695,8 @@
     "priorität": "WICHTIG",
     "kontext": "Trial des Urtempels - verändert Schlafbedarf",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495524
   },
   {
     "russisch": "Корни Хаоса",
@@ -1563,7 +1705,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine nicht-tödliche Kontrollfähigkeit des Protagonisten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495525
   },
   {
     "russisch": "Трейя",
@@ -1572,7 +1715,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Name der Mutter des Protagonisten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495526
   },
   {
     "russisch": "Гран",
@@ -1581,7 +1725,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der von Guerra gewählte Familienname.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495527
   },
   {
     "russisch": "цвет глаз",
@@ -1590,7 +1735,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Augenfarbe - gefährliches Erkennungsmerkmal",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495528
   },
   {
     "russisch": "Лабиринт Искусников",
@@ -1599,7 +1745,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der volle und offizielle Name für die \"\"Verborgene Stadt\"\". Der Zugang zu diesem Ort ist das Hauptziel des Protagonisten und vieler Schüler.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495529
   },
   {
     "russisch": "почётный командующий",
@@ -1608,7 +1755,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ehrenkommandant - Titel des Kaisers",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495530
   },
   {
     "russisch": "возраст",
@@ -1617,7 +1765,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Alter - 15-17 Jahre für Aufnahme",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495531
   },
   {
     "russisch": "таран",
@@ -1626,7 +1775,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Belagerungswaffe zum Einreißen von Toren",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495532
   },
   {
     "russisch": "туманники",
@@ -1635,7 +1785,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine besonders gefährliche Art von Kreatur im Labyrinth, vor der Sergeant Didgo ausdrücklich warnt.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495533
   },
   {
     "russisch": "сержант Дидго",
@@ -1644,7 +1795,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein kaiserlicher Sergeant, der den Zugang zum Labyrinth überwacht und die Einweisung gibt.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495534
   },
   {
     "russisch": "семья Фрег",
@@ -1653,7 +1805,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Dors' gewählter Clan-Name. Laut dem Protagonisten eine Emporkömmlingsfamilie von Händlern.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495535
   },
   {
     "russisch": "искусник Кхеллагр",
@@ -1662,7 +1815,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein mysteriöser, extrem paranoider und mächtiger Handwerker (Artefakt-Meister), den der Protagonist auf Empfehlung von Meister Tao aufsucht.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495536
   },
   {
     "russisch": "Амфитеатр",
@@ -1671,7 +1825,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der sicherste und anfängerfreundlichste der vier Bereiche des Labyrinths, mit viel schwacher Beute.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495537
   },
   {
     "russisch": "Гвой",
@@ -1680,7 +1835,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der übertrieben heldenhafte Protagonist eines Groschenromans",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495538
   },
   {
     "russisch": "Дуар",
@@ -1689,7 +1845,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Familienname",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495539
   },
   {
     "russisch": "учащийся",
@@ -1698,7 +1855,8 @@
     "priorität": "WICHTIG",
     "kontext": "Schüler der Akademie",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495540
   },
   {
     "russisch": "коса",
@@ -1707,7 +1865,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die Bezeichnung für die langen",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495541
   },
   {
     "russisch": "Высшая крепость костей",
@@ -1716,7 +1875,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine seltene passive Fähigkeit des Protagonisten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495542
   },
   {
     "russisch": "плюшки",
@@ -1725,7 +1885,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Umgangssprachlicher Ausdruck von Paxus für die Belohnungen und Vorteile, die nach der \"Akzeptanzphase\" gewährt werden.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495543
   },
   {
     "russisch": "мастер Тшо",
@@ -1734,7 +1895,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Meister",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495544
   },
   {
     "russisch": "корнеплоды пурры",
@@ -1743,7 +1905,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein teures Wurzelgemüse.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495545
   },
   {
     "russisch": "Рунные тени",
@@ -1752,7 +1915,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der vierte und am wenigsten erforschte Bereich des Labyrinths. Fast keine Beute, unbekanntes Risiko.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495546
   },
   {
     "russisch": "императорский палач",
@@ -1761,7 +1925,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Beruf von Khellagrs Zwillingsbruder",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495547
   },
   {
     "russisch": "рунные артефакты",
@@ -1770,7 +1935,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die mächtigste Kategorie von Artefakten. Hergestellt mit verlorener Runentechnologie, können sie nicht repariert werden.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495548
   },
   {
     "russisch": "телохранитель",
@@ -1779,7 +1945,8 @@
     "priorität": "WICHTIG",
     "kontext": "Leibwächter",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495549
   },
   {
     "russisch": "имперская казна",
@@ -1788,7 +1955,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die Kasse des Reiches",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495550
   },
   {
     "russisch": "нойские креветки",
@@ -1797,7 +1965,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine Garnelenart",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495551
   },
   {
     "russisch": "доска учёта",
@@ -1806,7 +1975,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die Rangliste der Schüler im Stahlpalast",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495552
   },
   {
     "russisch": "оскорбление императора",
@@ -1815,7 +1985,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Beleidigung seiner Majestät",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495553
   },
   {
     "russisch": "мастер Данс",
@@ -1824,7 +1995,8 @@
     "priorität": "WICHTIG",
     "kontext": "Meister mit der Fähigkeit",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495554
   },
   {
     "russisch": "южные ворота",
@@ -1833,7 +2005,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Südtor der Hauptstadt",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495555
   },
   {
     "russisch": "синий шарик",
@@ -1842,7 +2015,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die Form",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495556
   },
   {
     "russisch": "Жнец",
@@ -1851,7 +2025,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Name des besonderen Dolches des Protagonisten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495557
   },
   {
     "russisch": "Каллиграфия",
@@ -1860,7 +2035,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine passive Fertigkeit für schönes Schreiben. Der Protagonist verliert einen Punkt",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495558
   },
   {
     "russisch": "семья Гейб",
@@ -1869,7 +2045,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine andere Händlerfamilie",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495559
   },
   {
     "russisch": "снобизм",
@@ -1878,7 +2055,8 @@
     "priorität": "WICHTIG",
     "kontext": "Snobismus - Arroganz der Oberschicht",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495560
   },
   {
     "russisch": "Лабиринт",
@@ -1887,7 +2065,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein alternativer Name für die \"\"Verborgene Stadt\"\".",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495561
   },
   {
     "russisch": "Тёмные кварталы",
@@ -1896,7 +2075,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der zweite Bereich des Labyrinths. Mehr Beute",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495562
   },
   {
     "russisch": "бета",
@@ -1905,7 +2085,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine Klasse oder Stufe von Individuen im LitRPG-System",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495563
   },
   {
     "russisch": "задница Хаоса",
@@ -1914,7 +2095,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein Ausdruck, den Khellagr benutzt, um seinen Schock über die völlig unkonventionelle und \"falsche\" Struktur der Parameter des Protagonisten zu beschreiben.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495564
   },
   {
     "russisch": "ступени просветления",
@@ -1923,7 +2105,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die Stufen oder Level im LitRPG-System",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495565
   },
   {
     "russisch": "фактория",
@@ -1932,7 +2115,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Handelsposten wo Protagonist lebte",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495566
   },
   {
     "russisch": "малое универсальное общее состояние",
@@ -1941,7 +2125,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Seltener Gegenstand, Teil der rituellen Spende",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495567
   },
   {
     "russisch": "рунные техники",
@@ -1950,7 +2135,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die verlorene Technologie der Alten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495568
   },
   {
     "russisch": "положительные баллы",
@@ -1959,7 +2145,8 @@
     "priorität": "WICHTIG",
     "kontext": "Positive Punkte",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495569
   },
   {
     "russisch": "Нрамы",
@@ -1968,7 +2155,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die Dynastie oder das Reich von König Nram.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495570
   },
   {
     "russisch": "лошадь",
@@ -1979,7 +2167,8 @@
     "verwandte": [
       "окт"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495571
   },
   {
     "russisch": "Северное море",
@@ -1988,7 +2177,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein Meer",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495572
   },
   {
     "russisch": "малая первородная суть",
@@ -1997,7 +2187,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Seltener Gegenstand, Teil der rituellen Spende",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495573
   },
   {
     "russisch": "куклы (стационарные)",
@@ -2006,7 +2197,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ein neuer, riesiger Typ von Gegnern. Ihre Oberkörper ragen aus dem Boden und sie sind mit massiven Metallschlägern bewaffnet.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495574
   },
   {
     "russisch": "испытание на разум",
@@ -2015,7 +2207,8 @@
     "priorität": "WICHTIG",
     "kontext": "Die zweite Kategorie von Prüfungen (neben Kraft).",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495575
   },
   {
     "russisch": "великий мастер Ур",
@@ -2024,7 +2217,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Schulleiter des Stahlpalastes.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495576
   },
   {
     "russisch": "Ташлим",
@@ -2033,7 +2227,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Familienname",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495577
   },
   {
     "russisch": "император",
@@ -2042,7 +2237,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Herrscher des Rawischen Reiches",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495578
   },
   {
     "russisch": "Мастер Гнорий",
@@ -2051,7 +2247,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Geschichtslehrer, dessen Vorlesungen so langweilig sind, dass er den Spitznamen \"das Sedativ\" trägt.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495579
   },
   {
     "russisch": "Безликие",
@@ -2060,7 +2257,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine berüchtigte und gefürchtete Gruppe von Attentätern, die für ihre Fähigkeit bekannt sind, ihr Aussehen zu ändern. Sie sind für den Angriff auf die Familie des Protagonisten verantwortlich.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495580
   },
   {
     "russisch": "глава рода",
@@ -2069,7 +2267,8 @@
     "priorität": "WICHTIG",
     "kontext": "Clan-Oberhaupt",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495581
   },
   {
     "russisch": "Нестабильный щит Хаоса",
@@ -2078,7 +2277,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine defensive Fähigkeit des Protagonisten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495582
   },
   {
     "russisch": "Омир",
@@ -2087,7 +2287,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der von Shaun gewählte Familienname.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495583
   },
   {
     "russisch": "Герой ночи",
@@ -2098,7 +2299,8 @@
     "verwandte": [
       "Куриная слепота"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495584
   },
   {
     "russisch": "Скрытый Город",
@@ -2114,7 +2316,8 @@
     "synonyme": [
       "древняя могила",
       "Лабиринт"
-    ]
+    ],
+    "id": 1766705495585
   },
   {
     "russisch": "Тики",
@@ -2123,7 +2326,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der von Dibi gewählte Familienname.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495586
   },
   {
     "russisch": "пилозуб",
@@ -2132,7 +2336,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein Tier",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495587
   },
   {
     "russisch": "сдвоенный компактный арбалет",
@@ -2141,7 +2346,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die Waffe",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495588
   },
   {
     "russisch": "мастер-лучник",
@@ -2150,7 +2356,8 @@
     "priorität": "WICHTIG",
     "kontext": "Meister des Bogenschießens",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495589
   },
   {
     "russisch": "Кими из клана Кри",
@@ -2162,7 +2369,8 @@
       "Гедар",
       "долг благородного"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495590
   },
   {
     "russisch": "клановые конфликты",
@@ -2171,7 +2379,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Clan-Konflikte",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495591
   },
   {
     "russisch": "пятнадцать лет",
@@ -2180,7 +2389,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Mindestalter für Aufnahme",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495592
   },
   {
     "russisch": "худи",
@@ -2189,7 +2399,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein modernes Kleidungsstück",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495593
   },
   {
     "russisch": "комитет по встрече",
@@ -2200,7 +2411,8 @@
     "verwandte": [
       "Стальной Дворец"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495594
   },
   {
     "russisch": "благородные",
@@ -2214,7 +2426,8 @@
       "неблагородные",
       "простолюдин"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495595
   },
   {
     "russisch": "конюшня",
@@ -2223,7 +2436,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Pferdestall",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495596
   },
   {
     "russisch": "ночной лазутчик-любовник",
@@ -2232,7 +2446,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Paxus' fantasievolle und falsche Bezeichnung für den Protagonisten",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495597
   },
   {
     "russisch": "отпрыск",
@@ -2243,7 +2458,8 @@
     "verwandte": [
       "благородные"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495598
   },
   {
     "russisch": "неблагородные",
@@ -2256,7 +2472,8 @@
       "благородные",
       "мещане"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495599
   },
   {
     "russisch": "столица",
@@ -2268,7 +2485,8 @@
       "Императорский квартал",
       "западные ворота"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495600
   },
   {
     "russisch": "Алтарь Воскрешения",
@@ -2277,7 +2495,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ein Bonus oder eine Fähigkeit, die der Protagonist besitzt und die ihn möglicherweise nach dem Tod wiederbeleben kann, aber mit Risiken verbunden ist.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495601
   },
   {
     "russisch": "Первохрам",
@@ -2288,7 +2507,8 @@
     "verwandte": [
       "Скрытый Город"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495602
   },
   {
     "russisch": "дуэльный кодекс",
@@ -2297,7 +2517,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein Regelwerk für Duelle unter Adligen",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495603
   },
   {
     "russisch": "враги",
@@ -2306,7 +2527,8 @@
     "priorität": "WICHTIG",
     "kontext": "Feinde",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495604
   },
   {
     "russisch": "сезон",
@@ -2315,7 +2537,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Saison - Jahr (im Kontext der Aufnahme)",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495605
   },
   {
     "russisch": "бобы шая",
@@ -2324,7 +2547,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine Bohnenart",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495606
   },
   {
     "russisch": "ищейки",
@@ -2333,7 +2557,8 @@
     "priorität": "WICHTIG",
     "kontext": "Spürhunde - Verfolger (metaphorisch)",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495607
   },
   {
     "russisch": "мастер Вордо",
@@ -2342,7 +2567,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein dunkelhäutiger Meister",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495608
   },
   {
     "russisch": "жгучий хатчис",
@@ -2351,7 +2577,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine extrem teure und scharfe Gewürzschote.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495609
   },
   {
     "russisch": "Трезубец Нрама",
@@ -2365,7 +2592,8 @@
     ],
     "synonyme": [
       "Двузубец"
-    ]
+    ],
+    "id": 1766705495610
   },
   {
     "russisch": "параметры",
@@ -2377,7 +2605,8 @@
       "ПОРЯДОК",
       "уровень"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495611
   },
   {
     "russisch": "увольнительная",
@@ -2386,7 +2615,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Umgangssprachlicher Ausdruck für die Erlaubnis, die Akademie für einen bestimmten Zeitraum zu verlassen. Kostet Ranglistenpunkte.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495612
   },
   {
     "russisch": "Жизнь",
@@ -2395,7 +2625,8 @@
     "priorität": "WICHTIG",
     "kontext": "Leben - besondere Kraft/Territory",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495613
   },
   {
     "russisch": "Тао",
@@ -2408,7 +2639,8 @@
       "Стальной Дворец",
       "Гедар"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495614
   },
   {
     "russisch": "Трейя Хавир",
@@ -2420,7 +2652,8 @@
       "Гедар",
       "Гедар Хавир"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495615
   },
   {
     "russisch": "Шлоб",
@@ -2429,7 +2662,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein rothaariger, dicker Mann, der von einem Bettler erwähnt wird. Ein Detail, das die Atmosphäre des Viertels unterstreicht.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495616
   },
   {
     "russisch": "надувать лягушек",
@@ -2438,7 +2672,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine grausame Kindheitsbeschäftigung, die Khellagr als Metapher für den Zustand der ORDNUNG des Protagonisten verwendet.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495617
   },
   {
     "russisch": "батто",
@@ -2449,7 +2684,8 @@
     "verwandte": [
       "янь"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495618
   },
   {
     "russisch": "атрибуты Стихий",
@@ -2461,7 +2697,8 @@
       "элементы",
       "территория Жизни"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495619
   },
   {
     "russisch": "семнадцать лет",
@@ -2470,7 +2707,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Höchstalter für Aufnahme",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495620
   },
   {
     "russisch": "система испытаний",
@@ -2479,7 +2717,8 @@
     "priorität": "WICHTIG",
     "kontext": "Das System der Prüfungen, das die Schüler zu Beginn ihrer Ausbildung durchlaufen müssen, um ihre Fähigkeiten zu bewerten.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495621
   },
   {
     "russisch": "световой день",
@@ -2488,7 +2727,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Lichttag - Tagesstunden (Sonnenaufgang bis Sonnenuntergang)",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495622
   },
   {
     "russisch": "западные ворота",
@@ -2499,7 +2739,8 @@
     "verwandte": [
       "столица"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495623
   },
   {
     "russisch": "Дорран",
@@ -2508,7 +2749,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Person",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495624
   },
   {
     "russisch": "Чак",
@@ -2522,7 +2764,8 @@
     ],
     "synonyme": [
       "Гедар"
-    ]
+    ],
+    "id": 1766705495625
   },
   {
     "russisch": "голубая кровь",
@@ -2533,7 +2776,8 @@
     "verwandte": [
       "благородные"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495626
   },
   {
     "russisch": "мастер Бьег",
@@ -2542,7 +2786,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Der Bruder von Meister Hog",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495627
   },
   {
     "russisch": "мастер Хог",
@@ -2551,7 +2796,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein extrem strenger, kahlköpfiger Meister, der für den Wohnheimtrakt der Jungen verantwortlich ist.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495628
   },
   {
     "russisch": "долг благородного",
@@ -2562,7 +2808,8 @@
     "verwandte": [
       "Кими из клана Кри"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495629
   },
   {
     "russisch": "куклы-воины",
@@ -2574,7 +2821,8 @@
       "бронзовый воин",
       "стальные воины"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495630
   },
   {
     "russisch": "Сад Красных Лепестков",
@@ -2583,7 +2831,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Das bekannteste und beste Bordell in der Hauptstadt Rawa.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495631
   },
   {
     "russisch": "стебли молодого вассиса",
@@ -2592,7 +2841,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Stängel einer Pflanze",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495632
   },
   {
     "russisch": "подземный комплекс",
@@ -2601,7 +2851,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Das riesige, mehrstöckige Tunnelsystem unter der Akademie, in dem die Prüfung stattfindet.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495633
   },
   {
     "russisch": "стриг",
@@ -2610,7 +2861,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine andere Art von Kreatur",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495634
   },
   {
     "russisch": "псевдоним",
@@ -2619,7 +2871,8 @@
     "priorität": "WICHTIG",
     "kontext": "Pseudonym - Deckname in der Akademie",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495635
   },
   {
     "russisch": "усадьба",
@@ -2628,7 +2881,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Anwesen - Clan-Besitz",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495636
   },
   {
     "russisch": "охранный контур",
@@ -2637,7 +2891,8 @@
     "priorität": "WICHTIG",
     "kontext": "Ein anderes Wort für die \"\"Signalstruktur\"\" um Khellagrs Haus.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495637
   },
   {
     "russisch": "кровавый студень",
@@ -2646,7 +2901,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die Beschreibung für das sich ständig verändernde",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495638
   },
   {
     "russisch": "Приют Колючих Лилий",
@@ -2655,7 +2911,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein besonders exklusiver Bereich innerhalb des Bordells \"\"Garten der Roten Blütenblätter\"\".",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495639
   },
   {
     "russisch": "правила школы",
@@ -2664,7 +2921,8 @@
     "priorität": "WICHTIG",
     "kontext": "Schulregeln der Akademie",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495640
   },
   {
     "russisch": "ритуальное пожертвование",
@@ -2673,7 +2931,8 @@
     "priorität": "WICHTIG",
     "kontext": "Eine obligatorische Spende für die Aufnahme in den Stahlpalast",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495641
   },
   {
     "russisch": "эликсир",
@@ -2682,7 +2941,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Tränke",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495642
   },
   {
     "russisch": "искусник",
@@ -2691,7 +2951,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Eine besondere Klasse von Gelehrten, die ihre eigene ORDNUNG als Werkzeug zur Erforschung der Welt nutzen. Khellagr ist ein solcher \"Kunstfertiger\".",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495643
   },
   {
     "russisch": "прошлое",
@@ -2700,7 +2961,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Vergangenheit",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495644
   },
   {
     "russisch": "господин Гизал",
@@ -2709,7 +2971,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Ein mächtiger Magier, der im Amphitheater starb, obwohl er nur 25 Schritte vom Ausgang entfernt war. Seine Geschichte dient als Schreckensbeispiel.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495645
   },
   {
     "russisch": "Двузубец",
@@ -2720,7 +2983,8 @@
     "verwandte": [
       "Трезубец Нрама"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495646
   },
   {
     "russisch": "будущее",
@@ -2729,7 +2993,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Zukunft",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495647
   },
   {
     "russisch": "Гедар Хавир",
@@ -2743,7 +3008,8 @@
       "Трейя Хавир",
       "клан Кроу"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495648
   },
   {
     "russisch": "стадия объяснения",
@@ -2752,7 +3018,8 @@
     "priorität": "FLEXIBEL",
     "kontext": "Die erste Phase der Ausbildung in der Akademie, in der die Meister die Schüler mental brechen und ihnen ihre Wertlosigkeit demonstrieren.",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495649
   },
   {
     "russisch": "копьё",
@@ -2763,7 +3030,8 @@
     "verwandte": [
       "гардист"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495650
   },
   {
     "russisch": "ПОРЯДОК",
@@ -2776,7 +3044,8 @@
       "навыки",
       "уровень"
     ],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495651
   },
   {
     "russisch": "Стальной Дворец",
@@ -2791,7 +3060,8 @@
     ],
     "synonyme": [
       "Академия стали"
-    ]
+    ],
+    "id": 1766705495652
   },
   {
     "russisch": "господин",
@@ -2800,6 +3070,7 @@
     "priorität": "FLEXIBEL",
     "kontext": "Höfliche Anrede",
     "verwandte": [],
-    "synonyme": []
+    "synonyme": [],
+    "id": 1766705495653
   }
 ]

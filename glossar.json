@@ -1,31 +1,5 @@
 [
   {
-    "russisch": "клинок Арды",
-    "deutsch": "Schwert von Arda",
-    "kategorie": "GAME_ITEM",
-    "priorität": "FLEXIBEL",
-    "kontext": "Gerades, zweischneidiges Schwert edler Herkunft",
-    "verwandte": [
-      "янь",
-      "батто"
-    ],
-    "synonyme": [],
-    "id": 1766705495371
-  },
-  {
-    "russisch": "снежный паук",
-    "deutsch": "Schneespinne",
-    "kategorie": "SETTING_TIER",
-    "priorität": "FLEXIBEL",
-    "kontext": "Gefährliches Wesen, Jagdbeute",
-    "verwandte": [
-      "элементаль воздуха",
-      "кристаллический элементаль"
-    ],
-    "synonyme": [],
-    "id": 1766705495372
-  },
-  {
     "russisch": "стальные воины",
     "deutsch": "silberne Krieger",
     "kategorie": "GAME_MECHANIK",

@@ -10,12 +10,38 @@
     "verwandte": []
   },
   {
+    "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+    "russisch": "Балл Ло Болл",
+    "deutsch": "Ball Lo Boll",
+    "quelle": "Alpha_7_Kapitel_21",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
     "id": "3be8f51d-9bbf-4bd3-ab1d-b3d5633bad06",
     "russisch": "Брасс",
     "deutsch": "Brass",
     "quelle": "Alpha_6_Kapitel_02",
     "synonyme": [
       "мастер Брасс"
+    ],
+    "verwandte": []
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+    "russisch": "Вариант Гонай",
+    "deutsch": "Fall Gonai",
+    "quelle": "Alpha_7_Kapitel_02",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "6d89e5fe-b1a4-4587-af23-f212961d1684",
+    "russisch": "Взор Некроса",
+    "deutsch": "Blick des Nekros",
+    "quelle": "Alpha_5",
+    "synonyme": [
+      "Проницательный взор Некроса"
     ],
     "verwandte": []
   },
@@ -28,12 +54,34 @@
     "verwandte": []
   },
   {
+    "id": "f77ffe42-389a-4997-b006-6a46e58f7de8",
+    "russisch": "Гедар",
+    "deutsch": "Gedar",
+    "quelle": "Alpha_5",
+    "synonyme": [
+      "Чак",
+      "господин Гедар",
+      "Гедар Хавир"
+    ],
+    "verwandte": []
+  },
+  {
     "id": "2b5b1699-73af-4183-af16-f6fa747a8f3a",
     "russisch": "Гедар Хавир",
     "deutsch": "Gedar Hawir",
     "quelle": "Alpha_6_Multi",
     "synonyme": [],
     "verwandte": []
+  },
+  {
+    "id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+    "russisch": "Господин Рэй",
+    "deutsch": "Herr Ré",
+    "quelle": "Alpha_7_Kapitel_13",
+    "synonyme": [],
+    "verwandte": [
+      "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a"
+    ]
   },
   {
     "id": "a870e707-0afb-4dfe-a6e4-f73c37d9664b",
@@ -43,6 +91,24 @@
     "synonyme": [
       "мастер Данс",
       "Мастер Данс"
+    ],
+    "verwandte": []
+  },
+  {
+    "id": "dbf45237-f2a0-4c4f-9fbd-5b25de6e7fc1",
+    "russisch": "Данто",
+    "deutsch": "Danto",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a1b-9c8d-7e6f5a4b3c2d",
+    "russisch": "Делл Раххан",
+    "deutsch": "Dell Rahhan",
+    "quelle": "Alpha_7_Multi",
+    "synonyme": [
+      "Делл Раххана"
     ],
     "verwandte": []
   },
@@ -61,6 +127,24 @@
     "russisch": "Императорский квартал",
     "deutsch": "Kaiserliche Viertel",
     "quelle": "Alpha_6_Kapitel_02",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+    "russisch": "Кар Иеро Ист",
+    "deutsch": "Kar Iero Ist",
+    "quelle": "Alpha_7_Kapitel_13",
+    "synonyme": [
+      "Кар Иеро Иста"
+    ],
+    "verwandte": []
+  },
+  {
+    "id": "52a5e666-e611-4290-85c5-b235aef383c0",
+    "russisch": "Кими из клана Кри",
+    "deutsch": "Kimi aus dem Clan der Kri",
+    "quelle": "Alpha_5",
     "synonyme": [],
     "verwandte": []
   },
@@ -157,6 +241,14 @@
     ]
   },
   {
+    "id": "be0e8e54-300e-423b-98b1-fb9f42c4fa04",
+    "russisch": "Пенс",
+    "deutsch": "Pens",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
     "id": "4bf2b417-3db3-4fd4-9e2f-b439d3580b77",
     "russisch": "Первохрам",
     "deutsch": "Urtempel",
@@ -199,6 +291,22 @@
     ]
   },
   {
+    "id": "3822e7cd-0f6e-4dae-9029-b41efb5a734a",
+    "russisch": "Рок",
+    "deutsch": "Rock",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+    "russisch": "Рэй Оверо",
+    "deutsch": "Ré Overo",
+    "quelle": "Alpha_7_Kapitel_13",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
     "id": "df7feffd-95be-4d88-81f6-b567c3f4ec17",
     "russisch": "Сад Красных Лепестков",
     "deutsch": "Garten der Roten Blütenblätter",
@@ -225,12 +333,34 @@
     "verwandte": []
   },
   {
+    "id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+    "russisch": "Стального Замка",
+    "deutsch": "Stahlpalast",
+    "quelle": "Alpha_7_Multi",
+    "synonyme": [
+      "Стальном Замке"
+    ],
+    "verwandte": [
+      "d0013b32-1833-44ea-b7d5-8c155d8a0f06"
+    ]
+  },
+  {
     "id": "599910c0-877d-4a27-bdfb-a73efe2545a3",
     "russisch": "Стальной Владыка",
     "deutsch": "Stahlherr",
     "quelle": "Alpha_6_Multi",
     "synonyme": [
       "Стальным Владыкой"
+    ],
+    "verwandte": []
+  },
+  {
+    "id": "971039a8-8eb1-4278-8dcc-31977525a542",
+    "russisch": "Стальной Дворец",
+    "deutsch": "Stahlpalast",
+    "quelle": "Alpha_5",
+    "synonyme": [
+      "Академия стали"
     ],
     "verwandte": []
   },
@@ -250,7 +380,7 @@
   {
     "id": "d0013b32-1833-44ea-b7d5-8c155d8a0f06",
     "russisch": "Стальной Замок",
-    "deutsch": "Stahlburg",
+    "deutsch": "Stahlpalast",
     "quelle": "Alpha_6_Multi",
     "synonyme": [
       "Стального Замка"
@@ -279,10 +409,50 @@
     "verwandte": []
   },
   {
+    "id": "041cf83e-1a6c-41e1-95c3-eeee4ef6314a",
+    "russisch": "Сшон",
+    "deutsch": "Shaun",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "8e533547-3f3f-4093-a323-2a3ac03c7571",
+    "russisch": "Тао",
+    "deutsch": "Tao",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
     "id": "7d8436dd-e4c1-45b7-b6a4-935921eba348",
     "russisch": "Трезубец Нрама",
     "deutsch": "Nrams Dreizack",
     "quelle": "Alpha_6_Multi",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ab020147-3510-4c4b-9c7a-b231d1e8ee4a",
+    "russisch": "Тсас",
+    "deutsch": "Tsas",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+    "russisch": "Хали Мата Я",
+    "deutsch": "Hali Mat Ja",
+    "quelle": "Alpha_7_Kapitel_17",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+    "russisch": "Хит Эр Зоппий",
+    "deutsch": "Hit Er Soppij",
+    "quelle": "Alpha_7_Kapitel_01",
     "synonyme": [],
     "verwandte": []
   },
@@ -307,6 +477,16 @@
     ],
     "verwandte": [
       "083cdf4a-35a2-4852-9bab-b9e032a1340f"
+    ]
+  },
+  {
+    "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+    "russisch": "Чак Норрис",
+    "deutsch": "Chuck Norris",
+    "quelle": "Alpha_7_Kapitel_12",
+    "synonyme": [],
+    "verwandte": [
+      "8bcc9c88-287b-4de7-93e9-1b719902af99"
     ]
   },
   {
@@ -336,6 +516,14 @@
     "verwandte": [
       "18cdfba4-a82f-4836-a549-9428577d7d3e"
     ]
+  },
+  {
+    "id": "5045c5e4-3c9a-4349-b314-7d5b13ccac0d",
+    "russisch": "аристократ",
+    "deutsch": "Aristokrat",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
   },
   {
     "id": "3d21d6e5-2204-443a-815e-bf7b28846ecc",
@@ -380,6 +568,120 @@
     ]
   },
   {
+    "id": "0f615dbe-95bd-48aa-86e5-bb9bdeafce76",
+    "russisch": "благородные",
+    "deutsch": "Adlige",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "09dc1741-6486-4045-a5e2-0caa8daab83e",
+    "russisch": "враги",
+    "deutsch": "Feinde",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "c2c80de3-cfed-407a-af07-937278c6d6d9",
+    "russisch": "вражда",
+    "deutsch": "Feindschaft",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "2e65f8ef-42ae-409b-999a-d4574497e284",
+    "russisch": "гардист",
+    "deutsch": "Gardist",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "9d534d95-b4f4-4581-b343-c65a869c00e8",
+    "russisch": "глава рода",
+    "deutsch": "Oberhaupt des Clans",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "551c0d9c-47cb-4453-b67f-c6f5045cfea3",
+    "russisch": "главный мастер",
+    "deutsch": "Oberster Meister",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "5f1e69f7-1ddc-407a-a977-cd9ed16856f6",
+    "russisch": "голубая кровь",
+    "deutsch": "Blaublütige",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "cf8ae365-88ae-490f-b7b5-6957becafd3b",
+    "russisch": "дозволение",
+    "deutsch": "Ausnahmegenehmigung",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "9322bec1-ffd5-40a7-9548-0bd0853e9ede",
+    "russisch": "древняя могила",
+    "deutsch": "uraltes Grab",
+    "quelle": "Alpha_5",
+    "synonyme": [
+      "Labyrinth"
+    ],
+    "verwandte": []
+  },
+  {
+    "id": "9323d632-abfe-4490-8756-fdffb1d6ec9a",
+    "russisch": "извозчик",
+    "deutsch": "Kutscher",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "7da2f681-9f67-497f-a7cd-391347fcaf29",
+    "russisch": "инкогнито",
+    "deutsch": "Inkognito",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ffd7796b-f5f9-4c1f-8902-5fab41b92e0b",
+    "russisch": "ищейки",
+    "deutsch": "Spürhunde",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ad4a19a8-7833-4baa-8c28-eaf849b9b9d0",
+    "russisch": "клан Кроу",
+    "deutsch": "Clan der Crow",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ca284926-3021-43f0-965c-df5e35be0156",
+    "russisch": "комитет по встрече",
+    "deutsch": "Empfangskomitee",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
     "id": "48e467fd-e7c8-4a3d-bb03-e7036556b82b",
     "russisch": "мастер",
     "deutsch": "Meister",
@@ -390,6 +692,78 @@
     ]
   },
   {
+    "id": "a8f74f87-1b41-4b58-a1e4-8fa2a0b8f762",
+    "russisch": "мастер-лучник",
+    "deutsch": "Bogenschützenmeister",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "7f33eae2-e48c-4f0a-ad20-817de1a97565",
+    "russisch": "мещане",
+    "deutsch": "Kleinbürger",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "f1c4c4fd-9e4f-40c6-9907-2a231a56fdf9",
+    "russisch": "наёмные головорезы",
+    "deutsch": "Söldner",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "40002e4a-8b04-4b0c-8285-0466e928f42e",
+    "russisch": "неблагородные",
+    "deutsch": "Nichtadlige",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "2580d6fc-1d35-4694-95c3-d04b96544730",
+    "russisch": "неуспеваемость",
+    "deutsch": "Durchfallen",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "29290c8f-a50e-4a07-8af1-de62942d7693",
+    "russisch": "ночной сторож",
+    "deutsch": "Nachtwächter",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "676597f8-7114-4af5-ada0-6334746f8556",
+    "russisch": "облик",
+    "deutsch": "Abbild",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "1f01aa3a-ca19-41fb-9dc1-14c01ffff8cc",
+    "russisch": "отпрыск",
+    "deutsch": "Spross",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "16f006e3-91f7-4334-a0a9-b78b11c62d3a",
+    "russisch": "отчислять",
+    "deutsch": "relegieren",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
     "id": "865aac30-4d3a-4b06-babf-f4d003192740",
     "russisch": "печать",
     "deutsch": "Siegel",
@@ -398,6 +772,30 @@
     "verwandte": [
       "4bf2b417-3db3-4fd4-9e2f-b439d3580b77"
     ]
+  },
+  {
+    "id": "b7ce1e16-2aef-4d22-8206-e7af536d7a83",
+    "russisch": "под присягой",
+    "deutsch": "unter Eid",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ab3ffd6f-dc3a-4ece-b384-7cf67fcf1491",
+    "russisch": "почётный командующий",
+    "deutsch": "Ehrenkommandant",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "56794bad-3e5c-47f5-a2e0-8c75ab27eb66",
+    "russisch": "правила школы",
+    "deutsch": "Regeln der Schule",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
   },
   {
     "id": "3abcb56a-b146-4a5d-a9c3-7d4c1e7b9b06",
@@ -412,6 +810,49 @@
     ]
   },
   {
+    "id": "cd9bb516-2d6a-477c-a34a-f4fcbfbe8b06",
+    "russisch": "программа",
+    "deutsch": "Programm",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "56a2d7e3-6f0e-468c-a029-8b10f405f8ed",
+    "russisch": "простолюдин",
+    "deutsch": "Bürgerlicher",
+    "quelle": "Alpha_5",
+    "synonyme": [
+      "неблагородные",
+      "эйнфахер манн"
+    ],
+    "verwandte": []
+  },
+  {
+    "id": "fdba7496-8a49-4f28-85be-997137fe6239",
+    "russisch": "псевдоним",
+    "deutsch": "Pseudonym",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "13549c66-0b3c-4c4f-a0d6-818746c5d0d1",
+    "russisch": "ритуальное пожертвование",
+    "deutsch": "rituelle Spende",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "735975fe-3226-4b69-80b2-fece7a26a5b7",
+    "russisch": "снобизм",
+    "deutsch": "Snobismus",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
     "id": "2dbf0632-d619-499b-a090-6a0a6eb3381f",
     "russisch": "ступень просветления",
     "deutsch": "Erleuchtungsstufe",
@@ -423,5 +864,47 @@
     "verwandte": [
       "3be53c0b-56fa-4aac-86a1-a1198bf4a6a5"
     ]
+  },
+  {
+    "id": "3579258b-2fa5-4097-b079-28b59f42644b",
+    "russisch": "телохранитель",
+    "deutsch": "Leibwächter",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "3a7a0e80-52f2-4492-b169-d4bca435ecc8",
+    "russisch": "учащийся",
+    "deutsch": "Schüler",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "7bb933c4-54fa-4a59-b983-ae5ec2801ef8",
+    "russisch": "ученик",
+    "deutsch": "Schüler",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "720d9b2f-ab5e-4b09-add8-f537cbea9160",
+    "russisch": "царь Нрам",
+    "deutsch": "König Nram",
+    "quelle": "Alpha_5",
+    "synonyme": [
+      "Нрам"
+    ],
+    "verwandte": []
+  },
+  {
+    "id": "a33b4e18-ff39-44a3-8443-cadf44af759c",
+    "russisch": "шайка",
+    "deutsch": "Bande",
+    "quelle": "Alpha_5",
+    "synonyme": [],
+    "verwandte": []
   }
 ]

@@ -1,45 +1,5 @@
 [
   {
-    "russisch": "свод правил",
-    "deutsch": "Verhaltenskodex / Regelwerk",
-    "kategorie": "ALLGEMEIN",
-    "priorität": "FLEXIBEL",
-    "kontext": "Allgemeines Regelwerk für Verhalten",
-    "verwandte": [
-      "правила школы",
-      "дуэльный кодекс"
-    ],
-    "synonyme": [],
-    "id": 1766705495368
-  },
-  {
-    "russisch": "территория Жизни",
-    "deutsch": "Territorium des Lebens",
-    "kategorie": "GAME_MECHANIK",
-    "priorität": "WICHTIG",
-    "kontext": "Gebiet der Lebenskraft, besondere territoriale Eigenschaft",
-    "verwandte": [
-      "Жизнь",
-      "элементы",
-      "атрибуты Стихий"
-    ],
-    "synonyme": [],
-    "id": 1766705495369
-  },
-  {
-    "russisch": "мещане",
-    "deutsch": "Kleinbürger",
-    "kategorie": "SETTING_RANG",
-    "priorität": "WICHTIG",
-    "kontext": "Niederer Pseudo-Adel, soziale Klasse",
-    "verwandte": [
-      "простолюдин",
-      "неблагородные"
-    ],
-    "synonyme": [],
-    "id": 1766705495370
-  },
-  {
     "russisch": "клинок Арды",
     "deutsch": "Schwert von Arda",
     "kategorie": "GAME_ITEM",
@@ -3072,5 +3032,15 @@
     "verwandte": [],
     "synonyme": [],
     "id": 1766705495653
+  },
+  {
+    "id": 1766705993953,
+    "russisch": "тест",
+    "deutsch": "test",
+    "kategorie": "",
+    "priorität": "",
+    "kontext": "",
+    "verwandte": [],
+    "synonyme": []
   }
 ]

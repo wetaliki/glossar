@@ -569,22 +569,6 @@
     "verwandte": []
   },
   {
-    "id": "09dc1741-6486-4045-a5e2-0caa8daab83e",
-    "russisch": "враги",
-    "deutsch": "Feinde",
-    "quelle": "Alpha_5",
-    "synonyme": [],
-    "verwandte": []
-  },
-  {
-    "id": "c2c80de3-cfed-407a-af07-937278c6d6d9",
-    "russisch": "вражда",
-    "deutsch": "Feindschaft",
-    "quelle": "Alpha_5",
-    "synonyme": [],
-    "verwandte": []
-  },
-  {
     "id": "2e65f8ef-42ae-409b-999a-d4574497e284",
     "russisch": "гардист",
     "deutsch": "Gardist",
@@ -643,14 +627,6 @@
     "verwandte": []
   },
   {
-    "id": "7da2f681-9f67-497f-a7cd-391347fcaf29",
-    "russisch": "инкогнито",
-    "deutsch": "Inkognito",
-    "quelle": "Alpha_5",
-    "synonyme": [],
-    "verwandte": []
-  },
-  {
     "id": "ffd7796b-f5f9-4c1f-8902-5fab41b92e0b",
     "russisch": "ищейки",
     "deutsch": "Spürhunde",
@@ -673,16 +649,6 @@
     "quelle": "Alpha_5",
     "synonyme": [],
     "verwandte": []
-  },
-  {
-    "id": "48e467fd-e7c8-4a3d-bb03-e7036556b82b",
-    "russisch": "мастер",
-    "deutsch": "Meister",
-    "quelle": "Alpha_6_Kapitel_02",
-    "synonyme": [],
-    "verwandte": [
-      "6cac5f57-0679-4154-9a61-7999ab4c0ce4"
-    ]
   },
   {
     "id": "a8f74f87-1b41-4b58-a1e4-8fa2a0b8f762",
@@ -803,14 +769,6 @@
     ]
   },
   {
-    "id": "cd9bb516-2d6a-477c-a34a-f4fcbfbe8b06",
-    "russisch": "программа",
-    "deutsch": "Programm",
-    "quelle": "Alpha_5",
-    "synonyme": [],
-    "verwandte": []
-  },
-  {
     "id": "56a2d7e3-6f0e-468c-a029-8b10f405f8ed",
     "russisch": "простолюдин",
     "deutsch": "Bürgerlicher",
@@ -822,25 +780,9 @@
     "verwandte": []
   },
   {
-    "id": "fdba7496-8a49-4f28-85be-997137fe6239",
-    "russisch": "псевдоним",
-    "deutsch": "Pseudonym",
-    "quelle": "Alpha_5",
-    "synonyme": [],
-    "verwandte": []
-  },
-  {
     "id": "13549c66-0b3c-4c4f-a0d6-818746c5d0d1",
     "russisch": "ритуальное пожертвование",
     "deutsch": "rituelle Spende",
-    "quelle": "Alpha_5",
-    "synonyme": [],
-    "verwandte": []
-  },
-  {
-    "id": "735975fe-3226-4b69-80b2-fece7a26a5b7",
-    "russisch": "снобизм",
-    "deutsch": "Snobismus",
     "quelle": "Alpha_5",
     "synonyme": [],
     "verwandte": []
@@ -862,22 +804,6 @@
     "id": "3579258b-2fa5-4097-b079-28b59f42644b",
     "russisch": "телохранитель",
     "deutsch": "Leibwächter",
-    "quelle": "Alpha_5",
-    "synonyme": [],
-    "verwandte": []
-  },
-  {
-    "id": "3a7a0e80-52f2-4492-b169-d4bca435ecc8",
-    "russisch": "учащийся",
-    "deutsch": "Schüler",
-    "quelle": "Alpha_5",
-    "synonyme": [],
-    "verwandte": []
-  },
-  {
-    "id": "7bb933c4-54fa-4a59-b983-ae5ec2801ef8",
-    "russisch": "ученик",
-    "deutsch": "Schüler",
     "quelle": "Alpha_5",
     "synonyme": [],
     "verwandte": []
@@ -982,7 +908,7 @@
     "quelle": "Alpha_5",
     "verwandte": [],
     "synonyme": [
-      "\"Нрам\""
+      "Нрам"
     ]
   }
 ]

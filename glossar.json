@@ -371,16 +371,6 @@
     "verwandte": []
   },
   {
-    "id": "d0013b32-1833-44ea-b7d5-8c155d8a0f06",
-    "russisch": "Стальной Замок",
-    "deutsch": "Stahlburg",
-    "quelle": "Alpha_6_Multi",
-    "synonyme": [
-      "Стального Замка"
-    ],
-    "verwandte": []
-  },
-  {
     "id": "60854d7e-af01-4645-86b7-ee47fbc2358c",
     "russisch": "Стихия Воды",
     "deutsch": "Wasserelemental",
@@ -910,5 +900,837 @@
     "synonyme": [
       "Нрам"
     ]
+  },
+  {
+    "id": "3b875914-a8e4-4fd7-a4c2-b33487cd70f1",
+    "russisch": "Атрибуты и их наполнение",
+    "deutsch": "Attribute und ihr Füllstand",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "28a6bd09-0c99-42e3-bf43-6d4bd9f12de6",
+    "russisch": "Ловкость",
+    "deutsch": "Geschick",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ed287b98-b711-411e-844f-08641c7dd3d0",
+    "russisch": "Выносливость",
+    "deutsch": "Ausdauer",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "dc24a022-fcbb-4293-96e0-fce825543b3e",
+    "russisch": "Разум",
+    "deutsch": "Verstand",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "c4e29a71-c2ff-440f-bcc6-2a73f8ed2e96",
+    "russisch": "Сущность",
+    "deutsch": "Essenz",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ba835f44-35df-4b18-8b27-8cc63cfa2597",
+    "russisch": "Суть",
+    "deutsch": "Substanz",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "52c5dcb0-6c2d-4e08-ad81-835a54e2844b",
+    "russisch": "Камай",
+    "deutsch": "Kamaj",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "fed22e44-0a10-460c-9c16-0ae7c4259f5d",
+    "russisch": "воплощение",
+    "deutsch": "Verwirklichung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ae24ebdc-09d9-41fe-aa13-0a4546d646b4",
+    "russisch": "игнорирование",
+    "deutsch": "Abprall",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "bb8ca626-8613-48b8-b18b-64b063393eb5",
+    "russisch": "первородная суть",
+    "deutsch": "Uressenz",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "bb6761e8-2410-48fa-a951-1d2b401d941b",
+    "russisch": "единиц ци",
+    "deutsch": "Chi-Einheiten",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "07abb091-966f-4f40-a50e-c221d47276f3",
+    "russisch": "символах ци",
+    "deutsch": "Chi-Symbole",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "5cb3467a-b989-40a0-ab7c-0ce5cc16c384",
+    "russisch": "резервуар ци",
+    "deutsch": "Chi-Gefäß",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "546a2dc6-8388-4eb0-9446-5f734f1d9b18",
+    "russisch": "Рукопашный бой",
+    "deutsch": "Ringkampf/Faustkampf",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "6674e83f-f1d1-4e75-8d65-911bad487e72",
+    "russisch": "Кожевничество",
+    "deutsch": "Gerberei",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "584e1867-977c-4b8c-8b59-4725ce2f2197",
+    "russisch": "Травничество",
+    "deutsch": "Kräuterkunde",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "475c0144-78f3-48f2-b187-d757758a9e29",
+    "russisch": "начинающий камнетёс",
+    "deutsch": "Angehender Steinmetz",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "b4b3c97c-994f-479e-8ddb-8c09ba648756",
+    "russisch": "Знаток рыбалки",
+    "deutsch": "Kenner der Angelkunst",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "a92d4d66-4724-4437-947f-b1bc5af8b48e",
+    "russisch": "Лодочник-экстремал",
+    "deutsch": "Wildwasser-Bootsführer",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "09a2d973-cf99-4525-9c96-f473f1551084",
+    "russisch": "Резчик по кости",
+    "deutsch": "Knochenschnitzer",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "652a71ab-0cb2-41ce-969b-a6e4bfde07bc",
+    "russisch": "Восприимчивость",
+    "deutsch": "Empfänglichkeit",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "0760f437-3883-4668-98dc-7928387420b5",
+    "russisch": "Метка чудовища",
+    "deutsch": "Markierung von Ungeheuern",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "5cd8ac18-f6b1-4039-a56c-6fee43324fed",
+    "russisch": "Хаотическое спокойствие",
+    "deutsch": "Chaotische Ruhe",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "c50473c6-2a43-48c3-b741-aba1bfdb859a",
+    "russisch": "Чутьё Хаоса",
+    "deutsch": "Gespür des Chaos",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "22f59c84-b996-4aa2-9d19-79d142ddab38",
+    "russisch": "Постижение сути",
+    "deutsch": "Kernverständnis",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "95476801-f348-42e8-b2dc-04e59324b3d5",
+    "russisch": "Высшая крепость сердца",
+    "deutsch": "Stärkeres Herz",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "e9c2d37a-e3cd-43b8-b12e-1dc713d2e215",
+    "russisch": "Высшая крепость конечностей",
+    "deutsch": "Stärkere Gliedmaßen",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "d4e52bdd-c77b-488f-beff-f43c305eeaee",
+    "russisch": "Кровавое безумие",
+    "deutsch": "Blutiger Wahn",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "f1279131-95a6-4bc3-9450-b7b70f12fbf6",
+    "russisch": "Отравленный след",
+    "deutsch": "Vergiftete Spur",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "a4851768-dc4d-49e2-9ef8-09ae4561a5ba",
+    "russisch": "Самовосстановление",
+    "deutsch": "Selbstregeneration",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "fc1a7bce-975e-4e10-bcb2-5d1a8e576d78",
+    "russisch": "Братство неживых",
+    "deutsch": "Bruderschaft der Untoten",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "6deb0088-38ec-4d72-af9f-6dfcac3387f3",
+    "russisch": "Очищение Смерти",
+    "deutsch": "Säuberung des Todes",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "6b8debf9-1ebc-49c0-8b10-52bbe980deb0",
+    "russisch": "Мастер-спиннингист",
+    "deutsch": "Meister-Spinnangler",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "241d83b7-2c56-4184-ab33-1caadc97ce23",
+    "russisch": "Смертельное удержание",
+    "deutsch": "Tödliche Fixierung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ee7c76fc-62a3-4dcd-9c6d-892b5366e955",
+    "russisch": "Растворение",
+    "deutsch": "Auflösung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "9e3c1434-e61f-495d-a361-fe3d519b4495",
+    "russisch": "Каменная сфера",
+    "deutsch": "Steinerne Sphäre",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "6a5516fd-ad27-4b7b-8649-5ab7e6348931",
+    "russisch": "Изнурение",
+    "deutsch": "Aufzehrung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "f29ea595-8407-4630-9643-7778fc301321",
+    "russisch": "Запугивание",
+    "deutsch": "Einschüchterung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "9fe76e48-f460-4fef-a5a8-20922066dd38",
+    "russisch": "Благословение защиты Хаоса",
+    "deutsch": "Schutzsegen des Chaos",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "7c130b8a-a19f-4c57-a5f4-d595c407b57c",
+    "russisch": "Порождённая забота",
+    "deutsch": "Fürsorge",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "62a0ce35-14fb-44ba-ab48-a693ab7f3822",
+    "russisch": "Нестабильный щит Хаоса",
+    "deutsch": "Instabiler Chaosschild",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "46155806-fa70-4c61-acf4-ca04e5b52d5d",
+    "russisch": "Второе дыхание",
+    "deutsch": "Kraftschub",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "becd69c5-6aa7-40af-9360-71288602bb45",
+    "russisch": "Бешенство",
+    "deutsch": "Tobsucht",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "a5a606cf-427a-44b6-ba6e-9681a82565ce",
+    "russisch": "Железная кожа",
+    "deutsch": "Eiserne Haut",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "299ad788-16bd-4588-bdff-74e92963a066",
+    "russisch": "Каменная плоть",
+    "deutsch": "Steinerne Haut",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "e60bab5e-efea-4bc0-9ea6-5421783037ae",
+    "russisch": "Дальновидение",
+    "deutsch": "Fernsicht",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "da56d96c-5491-4760-a732-6bd251b04bb1",
+    "russisch": "Улучшение восприятия",
+    "deutsch": "Verbesserung der Wahrnehmung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "a03cb602-a2d6-4d82-a782-9cd458fe6ffd",
+    "russisch": "Улучшение просветления",
+    "deutsch": "Verbesserung der Erleuchtung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "c19645e4-4d21-4ba8-9acc-a42451b642b1",
+    "russisch": "Личина тьмы",
+    "deutsch": "Hülle der Finsternis",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "de111c09-e725-4839-a335-80a6c7e299b1",
+    "russisch": "Теневой образ",
+    "deutsch": "Schattenbild",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "de3931eb-198f-48f0-b047-68187fe7b8dd",
+    "russisch": "Метка Смерти",
+    "deutsch": "Markierung des Todes",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "6260b671-75e8-4ffc-a14a-9a2f103c8de0",
+    "russisch": "Символ доблести",
+    "deutsch": "Symbol der Kühnheit",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "8e15bfc8-abce-4754-a2c9-a4a985b8f7c8",
+    "russisch": "Смертедержец",
+    "deutsch": "Hüter des Todes",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "edbf6a01-d6bd-4628-bfb9-6a2d5ca16417",
+    "russisch": "Конструктор умертвий",
+    "deutsch": "Erschaffer von Untoten",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "586ca495-7b9d-4b75-9245-dce3de9f3d15",
+    "russisch": "Жнец",
+    "deutsch": "Schnitter",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "3208ee1d-4d2b-4a3a-a5c8-3d475fccf456",
+    "russisch": "Хаотический двойник",
+    "deutsch": "Chaotischer Doppelgänger",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "3d8470a4-26c8-4c6b-827c-eec6fad78d43",
+    "russisch": "Лихолес",
+    "deutsch": "Garstwald",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "f3f4f337-8e9b-4920-bf21-65806f9a41fb",
+    "russisch": "Темнолес",
+    "deutsch": "Finsterwald",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ce2c856b-180e-4e08-829d-621fc35c1427",
+    "russisch": "Тухлое дно",
+    "deutsch": "Fauler Grund",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "c94fe559-0319-40c6-98ba-674fd6749dd7",
+    "russisch": "откат",
+    "deutsch": "Cooldown",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "64af1534-4082-480a-8b87-7eeee3a28478",
+    "russisch": "отзыва",
+    "deutsch": "Abberufung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "45748eeb-f03d-4c0c-a6ae-bd4db146ecb1",
+    "russisch": "призыв",
+    "deutsch": "Anrufung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "d0ff981d-12f9-4190-9ccf-812677a8c06f",
+    "russisch": "отвязки",
+    "deutsch": "Aufhebung der Bindung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "b157d23a-9b90-4b9f-8a7e-0d0c372e9d98",
+    "russisch": "сокрытия",
+    "deutsch": "Verhüllung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "cdfde5be-b942-4a6b-bf73-953377abefd5",
+    "russisch": "поломки",
+    "deutsch": "Schäden",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "5ed341c2-3b39-4e74-8824-e2cb6f3c712a",
+    "russisch": "Восприятие",
+    "deutsch": "Wahrnehmung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "224c46c0-32a3-4103-9ddc-ea62381abfa0",
+    "russisch": "Дух",
+    "deutsch": "Geist",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "3a07348a-2cae-434c-9e31-1489a37d2621",
+    "russisch": "Интуиция",
+    "deutsch": "Intuition",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "0320ca80-7496-4b7d-9aa0-caf994645bdb",
+    "russisch": "Разрушение",
+    "deutsch": "Zerstörung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "f96735a0-1d5d-4c95-a442-7bc2e272f4a6",
+    "russisch": "Уверенность",
+    "deutsch": "Gewissheit",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "f8085975-7b19-4b8f-81db-cbfb2bc4862f",
+    "russisch": "Анархия",
+    "deutsch": "Anarchie",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "ae3a5e61-b13c-4f5c-aaaf-f57ecbc6e35a",
+    "russisch": "Иллюзорность",
+    "deutsch": "Täuschung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "f3bf8be2-ec94-4a9c-8edb-d1d89a418aaf",
+    "russisch": "Сила Смерти",
+    "deutsch": "Kraft des Todes",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "b2972e55-3af9-4f08-a863-32ca8120ff3b",
+    "russisch": "Подчинение",
+    "deutsch": "Unterjochung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "7fcb3a1c-f61d-421c-9a30-1035a80ba0e1",
+    "russisch": "Кукловод",
+    "deutsch": "Puppenspieler",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "66b326df-ce9f-429e-a448-f8593b2ac77a",
+    "russisch": "Аура Смерти",
+    "deutsch": "Aura des Todes",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "b1447a46-4b48-463e-856b-09097b5c2dfd",
+    "russisch": "Опустошение",
+    "deutsch": "Verwüstung",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "7147d62b-0839-4490-b1ad-34256dd7a0bf",
+    "russisch": "ярус",
+    "deutsch": "Ebene",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "444505dc-97e1-426d-9da1-d633eb085620",
+    "russisch": "Дмир",
+    "deutsch": "Dmir",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "1052099a-1045-433e-9db0-3a3e5ab4326a",
+    "russisch": "Йомис",
+    "deutsch": "Jomis",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "85e77970-e19e-45d3-8972-38ecfd23a544",
+    "russisch": "Эмэс",
+    "deutsch": "Emes",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "eed5837e-1ed3-45c1-8c5f-2dded6afad7f",
+    "russisch": "рогач",
+    "deutsch": "Hörnler",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "d95d26b2-ccc7-4dc2-9690-ae4b397845df",
+    "russisch": "империя",
+    "deutsch": "Reich",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "63d4741f-6bcc-40d2-b1c0-8bdd31e185c1",
+    "russisch": "Центар",
+    "deutsch": "Zentaur",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "88827c79-06f6-4061-ba9f-2f7e64c4296c",
+    "russisch": "равийский",
+    "deutsch": "rawisch",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "9d143d71-183c-4942-8833-d1a66830b7d1",
+    "russisch": "навык",
+    "deutsch": "Fertigkeit",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "a7b55485-40e9-4303-b815-696704d90db5",
+    "russisch": "артефакт",
+    "deutsch": "Artefakt",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "dacbb035-a3ab-4ef8-99da-a68ac6acd99d",
+    "russisch": "капитан",
+    "deutsch": "Hauptmann",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "02b86972-2820-4599-b0d5-7ea16d62224f",
+    "russisch": "император",
+    "deutsch": "Kaiser",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "2ce52fe6-5527-49c8-b71d-39f9c7986bdb",
+    "russisch": "сухое русло реки",
+    "deutsch": "trockenes Flussbett",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "306acd6a-5bdc-41cc-9ee5-a37cbe433707",
+    "russisch": "подземелье",
+    "deutsch": "Verließ",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "c61c3a11-ad17-4587-aa0b-1dc02d52c27f",
+    "russisch": "энергетические потоки",
+    "deutsch": "Energieflüsse",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "2cab8baf-ec1d-493c-897f-9a54b3f732e9",
+    "russisch": "сила",
+    "deutsch": "Kraft",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "7a45603c-0d12-4f34-a308-70cc20ea0df0",
+    "russisch": "меченный",
+    "deutsch": "Dekorierter",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "7a1c03f6-bca3-450d-adf9-fe7dcffff599",
+    "russisch": "десница",
+    "deutsch": "Rechte Hand",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "6f59efae-9c68-480e-a4ab-1364491de071",
+    "russisch": "крушитель",
+    "deutsch": "Brecher",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "906f905a-d2db-4f1a-802c-77f6476029af",
+    "russisch": "Рунный мародёр",
+    "deutsch": "Runenplünderer",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "e533e17a-50d1-47d3-beac-726bdc21d42d",
+    "russisch": "Баланс",
+    "deutsch": "Gleichgewicht",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "a5eee3d3-63e8-4899-903a-5f51b1b68679",
+    "russisch": "Тхат",
+    "deutsch": "That",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "9dcbd65a-04bf-4c81-b270-f76ef2763243",
+    "russisch": "вечник",
+    "deutsch": "Ewigbogen",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "a044f133-98d3-42f9-9e78-0572f05e480a",
+    "russisch": "Мудавия",
+    "deutsch": "Mudawien",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "06d5f0fb-acc8-4a09-8d9d-515b780c3b5d",
+    "russisch": "Бяка",
+    "deutsch": "Bjaka",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "b28ea625-3b7f-4f19-9518-3bbc50c33205",
+    "russisch": "клан",
+    "deutsch": "Clan",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
+  },
+  {
+    "id": "5156a125-ceb3-4c66-b010-1b53c95612b0",
+    "russisch": "Кроу",
+    "deutsch": "Crow",
+    "quelle": "Alpha_9",
+    "synonyme": [],
+    "verwandte": []
   }
 ]

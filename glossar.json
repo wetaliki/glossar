@@ -1,21 +1,5 @@
 [
   {
-    "russisch": "царь Нрам",
-    "deutsch": "König Nram",
-    "kategorie": "NAME_SEKUNDÄR",
-    "priorität": "SEHR_WICHTIG",
-    "kontext": "Historischer Gegner des Imperiums, dessen Macht vom Dreizack-Artefakt abhing",
-    "verwandte": [
-      "Трезубец Нрама",
-      "Двузубец",
-      "император Трай Четвёртый"
-    ],
-    "synonyme": [
-      "Нрам"
-    ],
-    "id": 1766705495367
-  },
-  {
     "russisch": "свод правил",
     "deutsch": "Verhaltenskodex / Regelwerk",
     "kategorie": "ALLGEMEIN",
@@ -3088,15 +3072,5 @@
     "verwandte": [],
     "synonyme": [],
     "id": 1766705495653
-  },
-  {
-    "id": 1766705993953,
-    "russisch": "тест",
-    "deutsch": "test",
-    "kategorie": "",
-    "priorität": "",
-    "kontext": "",
-    "verwandte": [],
-    "synonyme": []
   }
 ]
